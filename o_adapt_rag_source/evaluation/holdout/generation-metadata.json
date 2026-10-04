@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-10-03T16:47:30.085Z",
+  "requested_generator_model": "google/gemini-2.5-flash",
+  "returned_generator_model": "google/gemini-2.5-flash",
+  "production_model": "openai/gpt-4o-mini",
+  "source_prompt_sha256": "f7eb27bb6f8bed619ffa641bbb9cf99848df43ae5bc1b843593039d6f97b986c",
+  "fixture_sha256": "3ee558c5c98a1c78638d8f1d04a66683552b287b004e01892cf14844fa9fde60",
+  "provider_usage": {
+    "prompt_tokens": 149,
+    "completion_tokens": 730,
+    "total_tokens": 879,
+    "cost": 0.0018697,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0018697,
+      "upstream_inference_prompt_cost": 0.0000447,
+      "upstream_inference_completions_cost": 0.001825
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

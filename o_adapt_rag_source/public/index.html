@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Automatic orienteering course generator grounded in a knowledge base and path verification" />
+    <title>O-Adapt Orienteering Course Generator</title>
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230c2426'/%3E%3Cpath d='M32 10 50 42 14 42Z' fill='none' stroke='%23ff4fa3' stroke-width='6'/%3E%3Ccircle cx='32' cy='32' r='8' fill='none' stroke='%23f7c95c' stroke-width='5'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">△</span>
+        <div><strong>O-Adapt</strong><span>Orienteering Course Generator</span></div>
+      </div>
+      <div class="engine-state"><span></span> RAG connected · model selection and rule validation ready</div>
+    </header>
+
+    <main class="workspace">
+      <aside class="control-panel" aria-labelledby="request-title">
+        <div class="panel-heading">
+          <p class="eyebrow">COURSE REQUEST</p>
+          <h1 id="request-title">Create a training course</h1>
+          <p>Enter the training requirements. The model selects a route using RAG evidence, then the system applies hard validation.</p>
+        </div>
+
+        <form id="course-form">
+          <label for="site">Training area</label>
+          <select id="site" name="site">
+            <option>Jurong Central Park</option>
+          </select>
+          <p class="field-note">The MVP is limited to one documented park to avoid generating routes for unknown locations.</p>
+
+          <label for="control-mode">Control source</label>
+          <select id="control-mode" name="control-mode">
+            <option value="verified">Use existing eligible controls</option>
+            <option value="explore">Generate virtual GPS controls</option>
+          </select>
+          <p id="mode-note" class="field-note">Generate a route using paths and controls I verified.</p>
+
+          <div class="field-row">
+            <div>
+              <label for="distance">Target distance</label>
+              <div class="input-with-unit"><input id="distance" name="distance" type="number" min="600" max="1400" step="50" value="1000" /><span>m</span></div>
+            </div>
+            <div>
+              <label for="difficulty">Difficulty</label>
+              <select id="difficulty" name="difficulty">
+                <option value="beginner">Beginner</option>
+                <option value="intermediate">Intermediate</option>
+                <option value="advanced">Advanced</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="field-row">
+            <div>
+              <label for="control-count">Number of controls</label>
+              <select id="control-count" name="control-count">
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5" selected>5</option>
+              </select>
+            </div>
+            <div>
+              <label for="focus">Training focus</label>
+              <select id="focus" name="focus">
+                <option value="navigation">Navigation fundamentals</option>
+                <option value="route-choice">Route choice</option>
+                <option value="physical">Physical training</option>
+              </select>
+            </div>
+          </div>
+
+          <button class="generate-button" type="submit"><span>Generate a new route</span><span aria-hidden="true">→</span></button>
+        </form>
+
+        <div class="safety-card verified-card">
+          <div class="safety-icon" aria-hidden="true">✓</div>
+          <div><strong>Existing data has been field verified</strong><p>I verified 14 controls and 238 path segments. System-generated positions are outside this scope.</p></div>
+        </div>
+      </aside>
+
+      <section class="map-panel" aria-labelledby="map-title">
+        <div class="map-toolbar">
+          <div>
+            <p class="eyebrow">TRAINING MAP</p>
+            <h2 id="map-title">Jurong Central Park</h2>
+          </div>
+          <div class="map-actions">
+            <span class="scale-pill">1:4,000 prototype</span>
+            <button id="route-toggle" class="secondary-button" type="button" disabled>View reference route after completion</button>
+          </div>
+        </div>
+
+        <div class="map-stage" id="map-stage" aria-live="polite">
+          <svg id="course-map" viewBox="0 0 900 620" role="img" aria-label="Automatically generated orienteering training map of Jurong Central Park"></svg>
+          <div id="map-loading" class="map-loading">Loading park path data…</div>
+          <div class="north-arrow" aria-label="North"><span>N</span><i></i></div>
+          <div class="map-legend">
+            <span><i class="legend-path"></i>Candidate walking paths</span>
+            <span><i class="legend-control"></i>Control sequence</span>
+            <span><i class="legend-route"></i>Reference route after completion</span>
+            <span><i class="legend-activity"></i>Recorded activity</span>
+          </div>
+        </div>
+        <div class="result-strip" id="result-strip" hidden>
+          <div><span>Generated distance</span><strong id="result-distance">—</strong></div>
+          <div><span>Controls</span><strong id="result-controls">—</strong></div>
+          <div><span>Minimum spacing</span><strong id="result-spacing">—</strong></div>
+          <div><span>Knowledge rules</span><strong id="result-rules">—</strong></div>
+        </div>
+      </section>
+
+      <section class="evidence-panel" aria-labelledby="evidence-title">
+        <div class="evidence-heading">
+          <div><p class="eyebrow">RAG EVIDENCE</p><h2 id="evidence-title">Knowledge used for this generation</h2></div>
+          <span id="retrieval-count" class="retrieval-count">Waiting for generation</span>
+        </div>
+        <div id="knowledge-list" class="knowledge-list">
+          <div class="empty-state">After you submit the training requirements, retrieved orienteering rules and sources will appear here.</div>
+        </div>
+      </section>
+
+      <section class="validation-panel" aria-labelledby="validation-title">
+        <div class="validation-heading">
+          <div><p class="eyebrow">DETERMINISTIC CHECKS</p><h2 id="validation-title">Route validation</h2></div>
+          <span id="publish-state" class="status-badge pending">Waiting for generation</span>
+        </div>
+        <div id="check-list" class="check-list">
+          <div class="check pending"><span>Map path is connected</span><b>—</b></div>
+          <div class="check pending"><span>Distance within target ±10%</span><b>—</b></div>
+          <div class="check pending"><span>Project minimum spacing met</span><b>—</b></div>
+          <div class="check pending"><span>Path field verification</span><b>—</b></div>
+        </div>
+        <div class="explanation-grid">
+          <article class="explanation-card summary-card">
+            <div class="explanation-label"><span>ROUTE SUMMARY</span><b>Fixed template</b></div>
+            <h3>Route summary</h3>
+            <p id="route-summary">After generation, a concise summary filled from deterministic results will always appear here.</p>
+          </article>
+          <article id="model-explanation-card" class="explanation-card model-card idle">
+            <div class="explanation-label"><span>LLM ROUTE SELECTION</span><b>Core generation step</b></div>
+            <h3>Model selection rationale</h3>
+            <p id="model-status" class="model-status" role="status">Model has not been called</p>
+            <p id="model-explanation">The model uses the user input, retrieved rules and candidates that passed hard constraints to choose the final control sequence.</p>
+          </article>
+        </div>
+        <div id="generated-control-list" class="generated-control-list" hidden></div>
+      </section>
+
+      <section class="tracking-panel" aria-labelledby="tracking-title">
+        <div class="tracking-heading">
+          <div><p class="eyebrow">ACTIVITY TRACKING</p><h2 id="tracking-title">Record the completed route</h2></div>
+          <span id="tracking-status" class="status-badge pending">Generate a verified route first</span>
+        </div>
+        <p class="tracking-privacy">Location data stays in this browser and is never sent to the server. Starting an activity requires location permission. A control is recorded only after two consecutive readings within 20 m with accuracy of 25 m or better.</p>
+        <div class="tracking-actions">
+          <button id="start-activity" class="activity-primary" type="button" disabled>Start activity</button>
+          <button id="stop-activity" class="secondary-button" type="button" disabled>Stop</button>
+          <button id="clear-activity" class="secondary-button" type="button" disabled>Delete activity</button>
+          <button id="export-json" class="secondary-button" type="button" disabled>Export JSON</button>
+          <button id="export-gpx" class="secondary-button" type="button" disabled>Export GPX</button>
+        </div>
+        <div class="activity-metrics">
+          <div><span>Elapsed time</span><strong id="activity-time">00:00</strong></div>
+          <div><span>Recorded distance</span><strong id="activity-distance">0 m</strong></div>
+          <div><span>Controls reached</span><strong id="activity-controls">0/0</strong></div>
+          <div><span>GPS accuracy</span><strong id="activity-accuracy">—</strong></div>
+        </div>
+        <div id="checkpoint-progress" class="checkpoint-progress"><p>Generate a verified route to enable activity tracking.</p></div>
+      </section>
+    </main>
+
+    <footer>
+      <span>Path data: © OpenStreetMap contributors · <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">ODbL licence</a> · Course display informed by ISSprOM 2019-2 Revision 6</span>
+      <span>RAG retrieval → valid candidate generation → model selection → deterministic validation → fixed-template summary</span>
+    </footer>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

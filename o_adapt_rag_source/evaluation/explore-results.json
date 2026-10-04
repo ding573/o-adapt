@@ -1,0 +1,515 @@
+{
+  "summary": {
+    "recorded_at": "2026-10-03T09:25:54.764Z",
+    "fixture_sha256": "c207219c79a02a3083469a4f0345828b1eb6b053f694a18df61bade59de5e3f2",
+    "cases": 10,
+    "contract_passes": 10,
+    "normal_cases": 6,
+    "generated_virtual_routes": 6,
+    "edge_cases": 4,
+    "edge_abstentions": 4,
+    "verified_virtual_routes": 6,
+    "paid_model_calls": 0,
+    "limitations": [
+      "Predefined cases were fixed before the run; an externally collected holdout was not used.",
+      "GPxx points are virtual GPS controls rather than physical control features.",
+      "GPS accuracy and temporary path conditions can affect use."
+    ]
+  },
+  "rows": [
+    {
+      "id": "X01",
+      "group": "explore_normal",
+      "request": {
+        "targetDistanceM": 600,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation",
+        "controlMode": "explore"
+      },
+      "expected": "generated_virtual_route",
+      "contract_pass": true,
+      "latency_ms": 18.765958999999995,
+      "checks": {
+        "explore_mode": true,
+        "generated_count": true,
+        "generated_ids": true,
+        "generated_unique": true,
+        "generated_on_verified_nodes": true,
+        "generated_virtual_controls": true,
+        "sequence_shape": true,
+        "distance_within_tolerance": true,
+        "independent_spacing": true,
+        "verified_path_only": true,
+        "verified_virtual_route": true,
+        "deterministic": true
+      },
+      "generated_control_order": [
+        "CP01",
+        "GP11",
+        "GP03",
+        "GP13",
+        "CP16"
+      ],
+      "generated_control_points": [
+        {
+          "id": "GP11",
+          "latitude": 1.3369294,
+          "longitude": 103.7072243,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP03",
+          "latitude": 1.3374423,
+          "longitude": 103.7081627,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP13",
+          "latitude": 1.3390565,
+          "longitude": 103.7083279,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        }
+      ],
+      "routed_distance_m": 599.4523744570785,
+      "independently_measured_spacing_m": 61.97333062229918,
+      "status": "verified_course",
+      "safe_for_real_use": true,
+      "field_review_required": false
+    },
+    {
+      "id": "X02",
+      "group": "explore_normal",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "intermediate",
+        "controlCount": 4,
+        "focus": "navigation",
+        "controlMode": "explore"
+      },
+      "expected": "generated_virtual_route",
+      "contract_pass": true,
+      "latency_ms": 30.262875,
+      "checks": {
+        "explore_mode": true,
+        "generated_count": true,
+        "generated_ids": true,
+        "generated_unique": true,
+        "generated_on_verified_nodes": true,
+        "generated_virtual_controls": true,
+        "sequence_shape": true,
+        "distance_within_tolerance": true,
+        "independent_spacing": true,
+        "verified_path_only": true,
+        "verified_virtual_route": true,
+        "deterministic": true
+      },
+      "generated_control_order": [
+        "CP01",
+        "GP08",
+        "GP07",
+        "GP10",
+        "GP13",
+        "CP16"
+      ],
+      "generated_control_points": [
+        {
+          "id": "GP08",
+          "latitude": 1.3375079,
+          "longitude": 103.7074122,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP07",
+          "latitude": 1.3391184,
+          "longitude": 103.7091002,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP10",
+          "latitude": 1.3395991,
+          "longitude": 103.7084337,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP13",
+          "latitude": 1.3390565,
+          "longitude": 103.7083279,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        }
+      ],
+      "routed_distance_m": 799.9123744570786,
+      "independently_measured_spacing_m": 61.47000819306873,
+      "status": "verified_course",
+      "safe_for_real_use": true,
+      "field_review_required": false
+    },
+    {
+      "id": "X03",
+      "group": "explore_normal",
+      "request": {
+        "targetDistanceM": 1000,
+        "difficulty": "advanced",
+        "controlCount": 5,
+        "focus": "navigation",
+        "controlMode": "explore"
+      },
+      "expected": "generated_virtual_route",
+      "contract_pass": true,
+      "latency_ms": 209.6065,
+      "checks": {
+        "explore_mode": true,
+        "generated_count": true,
+        "generated_ids": true,
+        "generated_unique": true,
+        "generated_on_verified_nodes": true,
+        "generated_virtual_controls": true,
+        "sequence_shape": true,
+        "distance_within_tolerance": true,
+        "independent_spacing": true,
+        "verified_path_only": true,
+        "verified_virtual_route": true,
+        "deterministic": true
+      },
+      "generated_control_order": [
+        "CP01",
+        "GP08",
+        "GP04",
+        "GP07",
+        "GP05",
+        "GP09",
+        "CP16"
+      ],
+      "generated_control_points": [
+        {
+          "id": "GP08",
+          "latitude": 1.3375079,
+          "longitude": 103.7074122,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP04",
+          "latitude": 1.3382598,
+          "longitude": 103.70712,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP07",
+          "latitude": 1.3391184,
+          "longitude": 103.7091002,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP05",
+          "latitude": 1.3384968,
+          "longitude": 103.7084429,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP09",
+          "latitude": 1.3387251,
+          "longitude": 103.7077669,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        }
+      ],
+      "routed_distance_m": 1000.0023744570783,
+      "independently_measured_spacing_m": 79.31928587655759,
+      "status": "verified_course",
+      "safe_for_real_use": true,
+      "field_review_required": false
+    },
+    {
+      "id": "X04",
+      "group": "explore_normal",
+      "request": {
+        "targetDistanceM": 1200,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "route-choice",
+        "controlMode": "explore"
+      },
+      "expected": "generated_virtual_route",
+      "contract_pass": true,
+      "latency_ms": 9.629583000000025,
+      "checks": {
+        "explore_mode": true,
+        "generated_count": true,
+        "generated_ids": true,
+        "generated_unique": true,
+        "generated_on_verified_nodes": true,
+        "generated_virtual_controls": true,
+        "sequence_shape": true,
+        "distance_within_tolerance": true,
+        "independent_spacing": true,
+        "verified_path_only": true,
+        "verified_virtual_route": true,
+        "deterministic": true
+      },
+      "generated_control_order": [
+        "CP01",
+        "GP04",
+        "GP06",
+        "GP02",
+        "CP16"
+      ],
+      "generated_control_points": [
+        {
+          "id": "GP04",
+          "latitude": 1.3382598,
+          "longitude": 103.70712,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP06",
+          "latitude": 1.3365223,
+          "longitude": 103.7076955,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP02",
+          "latitude": 1.340012,
+          "longitude": 103.7093333,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        }
+      ],
+      "routed_distance_m": 1199.8323744570787,
+      "independently_measured_spacing_m": 123.57491322190155,
+      "status": "verified_course",
+      "safe_for_real_use": true,
+      "field_review_required": false
+    },
+    {
+      "id": "X05",
+      "group": "explore_normal",
+      "request": {
+        "targetDistanceM": 1400,
+        "difficulty": "intermediate",
+        "controlCount": 4,
+        "focus": "physical",
+        "controlMode": "explore"
+      },
+      "expected": "generated_virtual_route",
+      "contract_pass": true,
+      "latency_ms": 34.317124999999976,
+      "checks": {
+        "explore_mode": true,
+        "generated_count": true,
+        "generated_ids": true,
+        "generated_unique": true,
+        "generated_on_verified_nodes": true,
+        "generated_virtual_controls": true,
+        "sequence_shape": true,
+        "distance_within_tolerance": true,
+        "independent_spacing": true,
+        "verified_path_only": true,
+        "verified_virtual_route": true,
+        "deterministic": true
+      },
+      "generated_control_order": [
+        "CP01",
+        "GP09",
+        "GP01",
+        "GP06",
+        "GP14",
+        "CP16"
+      ],
+      "generated_control_points": [
+        {
+          "id": "GP09",
+          "latitude": 1.3387251,
+          "longitude": 103.7077669,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP01",
+          "latitude": 1.3382817,
+          "longitude": 103.7096,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP06",
+          "latitude": 1.3365223,
+          "longitude": 103.7076955,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP14",
+          "latitude": 1.3385547,
+          "longitude": 103.7089822,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        }
+      ],
+      "routed_distance_m": 1399.9923744570785,
+      "independently_measured_spacing_m": 75.08725936602238,
+      "status": "verified_course",
+      "safe_for_real_use": true,
+      "field_review_required": false
+    },
+    {
+      "id": "X06",
+      "group": "explore_normal",
+      "request": {
+        "targetDistanceM": 1000,
+        "difficulty": "intermediate",
+        "controlCount": 5,
+        "focus": "route-choice",
+        "controlMode": "explore"
+      },
+      "expected": "generated_virtual_route",
+      "contract_pass": true,
+      "latency_ms": 204.47037500000005,
+      "checks": {
+        "explore_mode": true,
+        "generated_count": true,
+        "generated_ids": true,
+        "generated_unique": true,
+        "generated_on_verified_nodes": true,
+        "generated_virtual_controls": true,
+        "sequence_shape": true,
+        "distance_within_tolerance": true,
+        "independent_spacing": true,
+        "verified_path_only": true,
+        "verified_virtual_route": true,
+        "deterministic": true
+      },
+      "generated_control_order": [
+        "CP01",
+        "GP08",
+        "GP04",
+        "GP07",
+        "GP05",
+        "GP09",
+        "CP16"
+      ],
+      "generated_control_points": [
+        {
+          "id": "GP08",
+          "latitude": 1.3375079,
+          "longitude": 103.7074122,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP04",
+          "latitude": 1.3382598,
+          "longitude": 103.70712,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP07",
+          "latitude": 1.3391184,
+          "longitude": 103.7091002,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP05",
+          "latitude": 1.3384968,
+          "longitude": 103.7084429,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        },
+        {
+          "id": "GP09",
+          "latitude": 1.3387251,
+          "longitude": 103.7077669,
+          "description": "System-generated virtual GPS control on a path-network node I verified",
+          "verification_status": "virtual_control_on_verified_path"
+        }
+      ],
+      "routed_distance_m": 1000.0023744570783,
+      "independently_measured_spacing_m": 79.31928587655759,
+      "status": "verified_course",
+      "safe_for_real_use": true,
+      "field_review_required": false
+    },
+    {
+      "id": "X07",
+      "group": "explore_edge",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation",
+        "controlMode": "explore"
+      },
+      "expected": "abstained",
+      "contract_pass": true,
+      "latency_ms": 0.057999999999992724,
+      "status": "abstained",
+      "safe_for_real_use": false,
+      "reason": "There are not enough connected candidate controls to satisfy this request."
+    },
+    {
+      "id": "X08",
+      "group": "explore_edge",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation",
+        "controlMode": "explore"
+      },
+      "expected": "abstained",
+      "contract_pass": true,
+      "latency_ms": 0.019791000000054737,
+      "status": "abstained",
+      "safe_for_real_use": false,
+      "reason": "There are not enough connected candidate controls to satisfy this request."
+    },
+    {
+      "id": "X09",
+      "group": "explore_edge",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation",
+        "controlMode": "explore"
+      },
+      "expected": "abstained",
+      "contract_pass": true,
+      "latency_ms": 0.12437499999998636,
+      "status": "abstained",
+      "safe_for_real_use": false,
+      "reason": "The start or finish is unavailable; generation stopped."
+    },
+    {
+      "id": "X10",
+      "group": "explore_edge",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "beginner",
+        "controlCount": 20,
+        "focus": "navigation",
+        "controlMode": "explore"
+      },
+      "expected": "abstained",
+      "contract_pass": true,
+      "latency_ms": 0.10837500000002365,
+      "status": "abstained",
+      "safe_for_real_use": false,
+      "reason": "The number of controls must be from 3 to 5."
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "version": 1,
+  "provenance": "Predefined from the project requirements and boundary scenarios, then fixed before the recorded run. Expected outcomes are constraint-based, not fitted route orders; an externally collected holdout was not used.",
+  "cases": [
+    {
+      "id": "N01",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 600,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N02",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "intermediate",
+        "controlCount": 4,
+        "focus": "navigation"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N03",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 1000,
+        "difficulty": "advanced",
+        "controlCount": 5,
+        "focus": "navigation"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N04",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 1200,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "route-choice"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N05",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 1400,
+        "difficulty": "intermediate",
+        "controlCount": 4,
+        "focus": "route-choice"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N06",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 600,
+        "difficulty": "advanced",
+        "controlCount": 5,
+        "focus": "route-choice"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N07",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "physical"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N08",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 1000,
+        "difficulty": "intermediate",
+        "controlCount": 4,
+        "focus": "physical"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N09",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 1200,
+        "difficulty": "advanced",
+        "controlCount": 5,
+        "focus": "physical"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N10",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 1400,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N11",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 600,
+        "difficulty": "intermediate",
+        "controlCount": 4,
+        "focus": "navigation"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N12",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "advanced",
+        "controlCount": 5,
+        "focus": "navigation"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N13",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 1000,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "route-choice"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N14",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 1200,
+        "difficulty": "intermediate",
+        "controlCount": 4,
+        "focus": "route-choice"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N15",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 1400,
+        "difficulty": "advanced",
+        "controlCount": 5,
+        "focus": "route-choice"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N16",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 600,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "physical"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N17",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "intermediate",
+        "controlCount": 4,
+        "focus": "physical"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N18",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 1000,
+        "difficulty": "advanced",
+        "controlCount": 5,
+        "focus": "physical"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N19",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 1200,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "N20",
+      "group": "normal",
+      "request": {
+        "targetDistanceM": 1400,
+        "difficulty": "intermediate",
+        "controlCount": 4,
+        "focus": "navigation"
+      },
+      "expected": "verified_or_explicit_abstention",
+      "expected_safe_for_real_use": null
+    },
+    {
+      "id": "E01",
+      "group": "edge",
+      "mutation": "unverified_paths",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation"
+      },
+      "expected": "abstained",
+      "expected_safe_for_real_use": false
+    },
+    {
+      "id": "E02",
+      "group": "edge",
+      "mutation": "excluded_paths",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation"
+      },
+      "expected": "abstained",
+      "expected_safe_for_real_use": false
+    },
+    {
+      "id": "E03",
+      "group": "edge",
+      "mutation": "blocked_controls",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation"
+      },
+      "expected": "abstained",
+      "expected_safe_for_real_use": false
+    },
+    {
+      "id": "E04",
+      "group": "edge",
+      "mutation": "missing_start",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation"
+      },
+      "expected": "abstained",
+      "expected_safe_for_real_use": false
+    },
+    {
+      "id": "E05",
+      "group": "edge",
+      "mutation": "missing_policy",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation"
+      },
+      "expected": "abstained",
+      "expected_safe_for_real_use": false
+    },
+    {
+      "id": "E06",
+      "group": "edge",
+      "mutation": "missing_verification",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation"
+      },
+      "expected": "review_required",
+      "expected_safe_for_real_use": false
+    },
+    {
+      "id": "E07",
+      "group": "edge",
+      "mutation": "hazard_failed",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation"
+      },
+      "expected": "review_required",
+      "expected_safe_for_real_use": false
+    },
+    {
+      "id": "E08",
+      "group": "edge",
+      "mutation": "invalid_distance",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation"
+      },
+      "expected": "abstained",
+      "expected_safe_for_real_use": false
+    },
+    {
+      "id": "E09",
+      "group": "edge",
+      "mutation": "invalid_count",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation"
+      },
+      "expected": "abstained",
+      "expected_safe_for_real_use": false
+    },
+    {
+      "id": "E10",
+      "group": "edge",
+      "mutation": "invalid_difficulty",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation"
+      },
+      "expected": "abstained",
+      "expected_safe_for_real_use": false
+    }
+  ]
+}

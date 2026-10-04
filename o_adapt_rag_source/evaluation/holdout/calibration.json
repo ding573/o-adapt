@@ -1,0 +1,194 @@
+{
+  "rows": [
+    {
+      "id": "N01",
+      "human": {
+        "user_request_fit_1_to_5": 5,
+        "training_focus_fit_1_to_5": 5,
+        "selection_reason_supported": true
+      },
+      "judge": {
+        "request_fit": 5,
+        "training_focus_fit": 4,
+        "reason_supported": true,
+        "explanation": "The route distance is 616.9m, which is within 10% of the target 600m (600 +/- 60m). The controls include prominent features like a bench and a McDonald's corner, aligning with beginner difficulty and navigation focus. One control is a 'Path bend', which is also a clear linear feature suitable for beginner navigation. The selection reason is supported by the route features and the retrieved rules for beginner training."
+      },
+      "judge_model": "google/gemini-2.5-flash",
+      "usage": {
+        "prompt_tokens": 549,
+        "completion_tokens": 137,
+        "total_tokens": 686,
+        "cost": 0.0005072,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0005072,
+          "upstream_inference_prompt_cost": 0.0001647,
+          "upstream_inference_completions_cost": 0.0003425
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    },
+    {
+      "id": "N02",
+      "human": {
+        "user_request_fit_1_to_5": 5,
+        "training_focus_fit_1_to_5": 5,
+        "selection_reason_supported": true
+      },
+      "judge": {
+        "request_fit": 5,
+        "training_focus_fit": 4,
+        "reason_supported": true,
+        "explanation": "The routed distance is almost exactly the target distance. The controls are varied and suitable for navigation practice, aligning with the stated focus. The description of controls as 'reasonably distributed' is supported by the variety of features and the overall route length."
+      },
+      "judge_model": "google/gemini-2.5-flash",
+      "usage": {
+        "prompt_tokens": 530,
+        "completion_tokens": 88,
+        "total_tokens": 618,
+        "cost": 0.000379,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000379,
+          "upstream_inference_prompt_cost": 0.000159,
+          "upstream_inference_completions_cost": 0.00022
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    },
+    {
+      "id": "N03",
+      "human": {
+        "user_request_fit_1_to_5": 3,
+        "training_focus_fit_1_to_5": 3,
+        "selection_reason_supported": false
+      },
+      "judge": {
+        "request_fit": 5,
+        "training_focus_fit": 4,
+        "reason_supported": true,
+        "explanation": "The route distance is within the requested 10% tolerance. The number of controls is 7, which is more than the requested 5, but this is not a strict constraint. The focus on navigation is supported by the control distribution and the nature of the control features, which require careful identification. The 'Other' feature type for some controls could be more specific for advanced navigation, but the descriptions provide clarity. The selection reason is supported as the route meets navigation training requirements with a reasonable control distribution."
+      },
+      "judge_model": "google/gemini-2.5-flash",
+      "usage": {
+        "prompt_tokens": 560,
+        "completion_tokens": 142,
+        "total_tokens": 702,
+        "cost": 0.000523,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000523,
+          "upstream_inference_prompt_cost": 0.000168,
+          "upstream_inference_completions_cost": 0.000355
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    },
+    {
+      "id": "N04",
+      "human": {
+        "user_request_fit_1_to_5": 5,
+        "training_focus_fit_1_to_5": 5,
+        "selection_reason_supported": true
+      },
+      "judge": {
+        "request_fit": 5,
+        "training_focus_fit": 3,
+        "reason_supported": false,
+        "explanation": "The route distance is within the requested target distance range. The route includes prominent features suitable for a beginner. However, there is no evidence provided to confirm that the route offers multiple feasible options between controls, which is crucial for route-choice training as per KB-04. The description of CP03 as 'Other' and 'In front of a stone feature' is vague and may not be precise enough for a control point as per KB-02."
+      },
+      "judge_model": "google/gemini-2.5-flash",
+      "usage": {
+        "prompt_tokens": 582,
+        "completion_tokens": 133,
+        "total_tokens": 715,
+        "cost": 0.0005071,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0005071,
+          "upstream_inference_prompt_cost": 0.0001746,
+          "upstream_inference_completions_cost": 0.0003325
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    },
+    {
+      "id": "N05",
+      "human": {
+        "user_request_fit_1_to_5": 5,
+        "training_focus_fit_1_to_5": 4,
+        "selection_reason_supported": true
+      },
+      "judge": {
+        "request_fit": 5,
+        "training_focus_fit": 3,
+        "reason_supported": false,
+        "explanation": "The route distance is almost exactly as requested, and the number of controls is appropriate. However, the provided route features do not offer enough information to confirm multiple feasible route choices between controls, which is crucial for 'route-choice' focus. One control is described as 'Other' and another as a 'Clock tower', which are identifiable features but don't inherently suggest route choice options. The 'Junction' features are better for route choice, but without more context on the connections between them, the training focus fit is only moderate."
+      },
+      "judge_model": "google/gemini-2.5-flash",
+      "usage": {
+        "prompt_tokens": 572,
+        "completion_tokens": 148,
+        "total_tokens": 720,
+        "cost": 0.0005416,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0005416,
+          "upstream_inference_prompt_cost": 0.0001716,
+          "upstream_inference_completions_cost": 0.00037
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    }
+  ]
+}

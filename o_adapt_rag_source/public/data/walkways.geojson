@@ -1,0 +1,7493 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 28.43,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7070819,
+            1.3363104
+          ],
+          [
+            103.7073152,
+            1.3362057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 22.17,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073152,
+            1.3362057
+          ],
+          [
+            103.7073245,
+            1.3360065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 7.64,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073245,
+            1.3360065
+          ],
+          [
+            103.7072558,
+            1.3360051
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 5.48,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072558,
+            1.3360051
+          ],
+          [
+            103.7072088,
+            1.3359903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 5.8,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072088,
+            1.3359903
+          ],
+          [
+            103.7071619,
+            1.3359675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 6.13,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7071619,
+            1.3359675
+          ],
+          [
+            103.7071197,
+            1.335932
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 5.34,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7071197,
+            1.335932
+          ],
+          [
+            103.7070767,
+            1.3359106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 4.61,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7070767,
+            1.3359106
+          ],
+          [
+            103.7070365,
+            1.3359005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 4.76,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7070365,
+            1.3359005
+          ],
+          [
+            103.7069938,
+            1.3358968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 4.75,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7069938,
+            1.3358968
+          ],
+          [
+            103.7069514,
+            1.3359018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 6.04,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7069514,
+            1.3359018
+          ],
+          [
+            103.7068991,
+            1.3359166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 7.82,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7068991,
+            1.3359166
+          ],
+          [
+            103.7068313,
+            1.3359354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 7.23,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7068313,
+            1.3359354
+          ],
+          [
+            103.706767,
+            1.3359454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 12.09,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.706767,
+            1.3359454
+          ],
+          [
+            103.7066583,
+            1.3359421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 7.09,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7066583,
+            1.3359421
+          ],
+          [
+            103.7065953,
+            1.335932
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 20.21,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7065953,
+            1.335932
+          ],
+          [
+            103.706415,
+            1.3359086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 12.83,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.706415,
+            1.3359086
+          ],
+          [
+            103.7063194,
+            1.3359732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 8.22,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7063194,
+            1.3359732
+          ],
+          [
+            103.7062652,
+            1.3360235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "104798958",
+        "highway": "construction",
+        "length_m": 5.67,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7062652,
+            1.3360235
+          ],
+          [
+            103.7062381,
+            1.3360667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763239",
+        "highway": "footway",
+        "length_m": 12.14,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7079933,
+            1.3372225
+          ],
+          [
+            103.7079126,
+            1.3372961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763239",
+        "highway": "footway",
+        "length_m": 12.03,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7079126,
+            1.3372961
+          ],
+          [
+            103.7078171,
+            1.3373469
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763239",
+        "highway": "footway",
+        "length_m": 12.06,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7078171,
+            1.3373469
+          ],
+          [
+            103.7077169,
+            1.3373885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763239",
+        "highway": "footway",
+        "length_m": 11.13,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7077169,
+            1.3373885
+          ],
+          [
+            103.7076168,
+            1.3373885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763239",
+        "highway": "footway",
+        "length_m": 13.71,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7076168,
+            1.3373885
+          ],
+          [
+            103.7075059,
+            1.3374424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763239",
+        "highway": "footway",
+        "length_m": 12.71,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7075059,
+            1.3374424
+          ],
+          [
+            103.7074122,
+            1.3375079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763239",
+        "highway": "footway",
+        "length_m": 13.19,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7074122,
+            1.3375079
+          ],
+          [
+            103.7073549,
+            1.3376118
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763239",
+        "highway": "footway",
+        "length_m": 7.23,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073549,
+            1.3376118
+          ],
+          [
+            103.7073487,
+            1.3376765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763239",
+        "highway": "footway",
+        "length_m": 8.45,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073487,
+            1.3376765
+          ],
+          [
+            103.7073395,
+            1.3377519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763239",
+        "highway": "footway",
+        "length_m": 8.83,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073395,
+            1.3377519
+          ],
+          [
+            103.7073149,
+            1.3378274
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763239",
+        "highway": "footway",
+        "length_m": 7.53,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073149,
+            1.3378274
+          ],
+          [
+            103.707264,
+            1.3378721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763239",
+        "highway": "footway",
+        "length_m": 5.27,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.707264,
+            1.3378721
+          ],
+          [
+            103.7072255,
+            1.3378998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.78,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7080268,
+            1.3391025
+          ],
+          [
+            103.7080439,
+            1.3391419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.5,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7080439,
+            1.3391419
+          ],
+          [
+            103.7080695,
+            1.3391733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.49,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7080695,
+            1.3391733
+          ],
+          [
+            103.7081024,
+            1.3391968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.49,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7081024,
+            1.3391968
+          ],
+          [
+            103.7081402,
+            1.339211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.5,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7081402,
+            1.339211
+          ],
+          [
+            103.7081805,
+            1.3392148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.5,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7081805,
+            1.3392148
+          ],
+          [
+            103.7082204,
+            1.3392079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.49,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7082204,
+            1.3392079
+          ],
+          [
+            103.708257,
+            1.3391909
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.41,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.708257,
+            1.3391909
+          ],
+          [
+            103.7082874,
+            1.3391654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.4,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7082874,
+            1.3391654
+          ],
+          [
+            103.7083103,
+            1.3391331
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.41,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7083103,
+            1.3391331
+          ],
+          [
+            103.7083241,
+            1.3390959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.4,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7083241,
+            1.3390959
+          ],
+          [
+            103.7083279,
+            1.3390565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.41,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7083279,
+            1.3390565
+          ],
+          [
+            103.7083215,
+            1.3390174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.41,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7083215,
+            1.3390174
+          ],
+          [
+            103.7083053,
+            1.3389812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.95,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7083053,
+            1.3389812
+          ],
+          [
+            103.7082767,
+            1.3389471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.94,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7082767,
+            1.3389471
+          ],
+          [
+            103.7082396,
+            1.3389226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.94,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7082396,
+            1.3389226
+          ],
+          [
+            103.708197,
+            1.3389099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.95,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.708197,
+            1.3389099
+          ],
+          [
+            103.7081525,
+            1.3389098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.94,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7081525,
+            1.3389098
+          ],
+          [
+            103.7081099,
+            1.3389225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.78,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7081099,
+            1.3389225
+          ],
+          [
+            103.7080738,
+            1.3389459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.78,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7080738,
+            1.3389459
+          ],
+          [
+            103.7080457,
+            1.3389784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.78,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7080457,
+            1.3389784
+          ],
+          [
+            103.7080277,
+            1.3390174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.78,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7080277,
+            1.3390174
+          ],
+          [
+            103.7080212,
+            1.3390599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763240",
+        "highway": "footway",
+        "length_m": 4.78,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7080212,
+            1.3390599
+          ],
+          [
+            103.7080268,
+            1.3391025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763241",
+        "highway": "footway",
+        "length_m": 47.91,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7081099,
+            1.3389225
+          ],
+          [
+            103.7079196,
+            1.3385359
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763242",
+        "highway": "footway",
+        "length_m": 7.74,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7076853,
+            1.3394418
+          ],
+          [
+            103.7077427,
+            1.3394024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763242",
+        "highway": "footway",
+        "length_m": 4.25,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7077427,
+            1.3394024
+          ],
+          [
+            103.7077807,
+            1.3393986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763242",
+        "highway": "footway",
+        "length_m": 4.31,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7077807,
+            1.3393986
+          ],
+          [
+            103.7078159,
+            1.3394148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763242",
+        "highway": "footway",
+        "length_m": 8.94,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7078159,
+            1.3394148
+          ],
+          [
+            103.7078729,
+            1.3393581
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763242",
+        "highway": "footway",
+        "length_m": 5.11,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7078729,
+            1.3393581
+          ],
+          [
+            103.7079014,
+            1.3393221
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763242",
+        "highway": "footway",
+        "length_m": 25.54,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7079014,
+            1.3393221
+          ],
+          [
+            103.7080439,
+            1.3391419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763243",
+        "highway": "footway",
+        "length_m": 1.99,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7082332,
+            1.3395134
+          ],
+          [
+            103.7082423,
+            1.339498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763243",
+        "highway": "footway",
+        "length_m": 1.65,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7082423,
+            1.339498
+          ],
+          [
+            103.7082564,
+            1.3394933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763243",
+        "highway": "footway",
+        "length_m": 4.9,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7082564,
+            1.3394933
+          ],
+          [
+            103.7083005,
+            1.3394933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763243",
+        "highway": "footway",
+        "length_m": 5.19,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7083005,
+            1.3394933
+          ],
+          [
+            103.7083469,
+            1.3394884
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763243",
+        "highway": "footway",
+        "length_m": 3.77,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7083469,
+            1.3394884
+          ],
+          [
+            103.7083775,
+            1.3394737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763243",
+        "highway": "footway",
+        "length_m": 3.53,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7083775,
+            1.3394737
+          ],
+          [
+            103.7083839,
+            1.3394426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763243",
+        "highway": "footway",
+        "length_m": 31.34,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7083839,
+            1.3394426
+          ],
+          [
+            103.708257,
+            1.3391909
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763244",
+        "highway": "footway",
+        "length_m": 11.39,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7083053,
+            1.3389812
+          ],
+          [
+            103.7083892,
+            1.3389224
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763244",
+        "highway": "footway",
+        "length_m": 11.89,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7083892,
+            1.3389224
+          ],
+          [
+            103.7084898,
+            1.3388862
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763244",
+        "highway": "footway",
+        "length_m": 8.38,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7084898,
+            1.3388862
+          ],
+          [
+            103.7085649,
+            1.3388795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763244",
+        "highway": "footway",
+        "length_m": 14.38,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7085649,
+            1.3388795
+          ],
+          [
+            103.7086936,
+            1.3388661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763244",
+        "highway": "footway",
+        "length_m": 13.81,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7086936,
+            1.3388661
+          ],
+          [
+            103.7088036,
+            1.3388084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763244",
+        "highway": "footway",
+        "length_m": 7.27,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7088036,
+            1.3388084
+          ],
+          [
+            103.7088628,
+            1.3387807
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763244",
+        "highway": "footway",
+        "length_m": 3.27,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7088628,
+            1.3387807
+          ],
+          [
+            103.7088894,
+            1.3387682
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763244",
+        "highway": "footway",
+        "length_m": 26.74,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7088894,
+            1.3387682
+          ],
+          [
+            103.7091054,
+            1.3386623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763244",
+        "highway": "footway",
+        "length_m": 16.37,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091054,
+            1.3386623
+          ],
+          [
+            103.7092289,
+            1.3385821
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763245",
+        "highway": "footway",
+        "length_m": 17.68,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7089679,
+            1.3389
+          ],
+          [
+            103.7088628,
+            1.3387807
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763245",
+        "highway": "footway",
+        "length_m": 35.89,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7088628,
+            1.3387807
+          ],
+          [
+            103.708683,
+            1.3385126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763246",
+        "highway": "footway",
+        "length_m": 127.47,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7079196,
+            1.3385359
+          ],
+          [
+            103.7074122,
+            1.3375079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278763246",
+        "highway": "footway",
+        "length_m": 65.77,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7074122,
+            1.3375079
+          ],
+          [
+            103.7071493,
+            1.336978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895946",
+        "highway": "cycleway",
+        "length_m": 9.93,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073267,
+            1.3367847
+          ],
+          [
+            103.7072847,
+            1.3368635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895946",
+        "highway": "cycleway",
+        "length_m": 9.94,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072847,
+            1.3368635
+          ],
+          [
+            103.7072243,
+            1.3369294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895946",
+        "highway": "cycleway",
+        "length_m": 9.94,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072243,
+            1.3369294
+          ],
+          [
+            103.7071493,
+            1.336978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895946",
+        "highway": "cycleway",
+        "length_m": 10.66,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7071493,
+            1.336978
+          ],
+          [
+            103.7070581,
+            1.3370077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895946",
+        "highway": "cycleway",
+        "length_m": 10.65,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7070581,
+            1.3370077
+          ],
+          [
+            103.7069624,
+            1.3370118
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895946",
+        "highway": "cycleway",
+        "length_m": 10.66,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7069624,
+            1.3370118
+          ],
+          [
+            103.706869,
+            1.3369901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895946",
+        "highway": "cycleway",
+        "length_m": 2.98,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.706869,
+            1.3369901
+          ],
+          [
+            103.7068454,
+            1.3369773
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895946",
+        "highway": "cycleway",
+        "length_m": 7.67,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7068454,
+            1.3369773
+          ],
+          [
+            103.7067848,
+            1.3369443
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895946",
+        "highway": "cycleway",
+        "length_m": 10.65,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7067848,
+            1.3369443
+          ],
+          [
+            103.706716,
+            1.3368776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895946",
+        "highway": "cycleway",
+        "length_m": 10.66,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.706716,
+            1.3368776
+          ],
+          [
+            103.7066675,
+            1.3367949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895946",
+        "highway": "cycleway",
+        "length_m": 10.66,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7066675,
+            1.3367949
+          ],
+          [
+            103.706643,
+            1.3367022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895946",
+        "highway": "cycleway",
+        "length_m": 10.65,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.706643,
+            1.3367022
+          ],
+          [
+            103.7066441,
+            1.3366064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895946",
+        "highway": "cycleway",
+        "length_m": 10.65,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7066441,
+            1.3366064
+          ],
+          [
+            103.7066709,
+            1.3365144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 6.97,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7068454,
+            1.3369773
+          ],
+          [
+            103.7068106,
+            1.3370294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 5.23,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7068106,
+            1.3370294
+          ],
+          [
+            103.7067908,
+            1.3370721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 6.75,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7067908,
+            1.3370721
+          ],
+          [
+            103.7067786,
+            1.3371316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 9.05,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7067786,
+            1.3371316
+          ],
+          [
+            103.7067694,
+            1.3372125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 7.95,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7067694,
+            1.3372125
+          ],
+          [
+            103.7067893,
+            1.3372812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 7.79,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7067893,
+            1.3372812
+          ],
+          [
+            103.7068381,
+            1.3373315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 10.4,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7068381,
+            1.3373315
+          ],
+          [
+            103.7069159,
+            1.3373834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 9.75,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7069159,
+            1.3373834
+          ],
+          [
+            103.7069907,
+            1.3374292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 9.52,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7069907,
+            1.3374292
+          ],
+          [
+            103.7070457,
+            1.3374948
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 14.35,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7070457,
+            1.3374948
+          ],
+          [
+            103.7071083,
+            1.3376077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 19.28,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7071083,
+            1.3376077
+          ],
+          [
+            103.7071846,
+            1.3377634
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 15.83,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7071846,
+            1.3377634
+          ],
+          [
+            103.7072255,
+            1.3378998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 18.73,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072255,
+            1.3378998
+          ],
+          [
+            103.7072394,
+            1.3380677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 18.15,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072394,
+            1.3380677
+          ],
+          [
+            103.7072363,
+            1.3382309
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 6.06,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072363,
+            1.3382309
+          ],
+          [
+            103.7072275,
+            1.3382847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 9.13,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072275,
+            1.3382847
+          ],
+          [
+            103.7072193,
+            1.3383664
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 11.9,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072193,
+            1.3383664
+          ],
+          [
+            103.707207,
+            1.3384727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 10.09,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.707207,
+            1.3384727
+          ],
+          [
+            103.7072065,
+            1.3385634
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 16.18,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072065,
+            1.3385634
+          ],
+          [
+            103.7072662,
+            1.3386961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 17.21,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072662,
+            1.3386961
+          ],
+          [
+            103.7073838,
+            1.3387967
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 8.62,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073838,
+            1.3387967
+          ],
+          [
+            103.7074547,
+            1.3388282
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 19.67,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7074547,
+            1.3388282
+          ],
+          [
+            103.7076109,
+            1.3389113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 15.53,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7076109,
+            1.3389113
+          ],
+          [
+            103.7077214,
+            1.3389967
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 16.38,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7077214,
+            1.3389967
+          ],
+          [
+            103.7078066,
+            1.3391169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 16.39,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7078066,
+            1.3391169
+          ],
+          [
+            103.707861,
+            1.3392539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 8.81,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.707861,
+            1.3392539
+          ],
+          [
+            103.7079014,
+            1.3393221
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 16.11,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7079014,
+            1.3393221
+          ],
+          [
+            103.7080139,
+            1.3394134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 26.79,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7080139,
+            1.3394134
+          ],
+          [
+            103.7082332,
+            1.3395134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 16.17,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7082332,
+            1.3395134
+          ],
+          [
+            103.7083679,
+            1.3395683
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 6.04,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7083679,
+            1.3395683
+          ],
+          [
+            103.7084169,
+            1.3395917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 2.04,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7084169,
+            1.3395917
+          ],
+          [
+            103.7084337,
+            1.3395991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 54.39,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7084337,
+            1.3395991
+          ],
+          [
+            103.7088776,
+            1.3398049
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 7.27,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7088776,
+            1.3398049
+          ],
+          [
+            103.7089396,
+            1.3398256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 7.26,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7089396,
+            1.3398256
+          ],
+          [
+            103.7090049,
+            1.3398252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 7.28,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7090049,
+            1.3398252
+          ],
+          [
+            103.7090667,
+            1.3398036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 10.47,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7090667,
+            1.3398036
+          ],
+          [
+            103.7091431,
+            1.3397486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 7.11,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091431,
+            1.3397486
+          ],
+          [
+            103.7091804,
+            1.3396967
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 7.09,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091804,
+            1.3396967
+          ],
+          [
+            103.7091984,
+            1.3396355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 7.09,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091984,
+            1.3396355
+          ],
+          [
+            103.7091953,
+            1.3395718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 7.1,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091953,
+            1.3395718
+          ],
+          [
+            103.7091713,
+            1.3395126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 20.82,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091713,
+            1.3395126
+          ],
+          [
+            103.7090935,
+            1.3393423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 8.46,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7090935,
+            1.3393423
+          ],
+          [
+            103.7090777,
+            1.3392679
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 8.47,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7090777,
+            1.3392679
+          ],
+          [
+            103.70908,
+            1.3391918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 8.46,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.70908,
+            1.3391918
+          ],
+          [
+            103.7091002,
+            1.3391184
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 12.24,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091002,
+            1.3391184
+          ],
+          [
+            103.7091579,
+            1.3390246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 6.91,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091579,
+            1.3390246
+          ],
+          [
+            103.7091861,
+            1.3389692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 6.91,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091861,
+            1.3389692
+          ],
+          [
+            103.7091976,
+            1.3389081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 5.92,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091976,
+            1.3389081
+          ],
+          [
+            103.7091941,
+            1.338855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 9.26,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091941,
+            1.338855
+          ],
+          [
+            103.7091672,
+            1.3387762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 14.41,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091672,
+            1.3387762
+          ],
+          [
+            103.7091054,
+            1.3386623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 11.09,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091054,
+            1.3386623
+          ],
+          [
+            103.7090479,
+            1.3385808
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 7.86,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7090479,
+            1.3385808
+          ],
+          [
+            103.7089822,
+            1.3385547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 23.28,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7089822,
+            1.3385547
+          ],
+          [
+            103.708773,
+            1.3385459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 10.67,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.708773,
+            1.3385459
+          ],
+          [
+            103.708683,
+            1.3385126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 16.22,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.708683,
+            1.3385126
+          ],
+          [
+            103.708598,
+            1.338394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 12.41,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.708598,
+            1.338394
+          ],
+          [
+            103.7085255,
+            1.3383091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 19.45,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7085255,
+            1.3383091
+          ],
+          [
+            103.7083892,
+            1.3381994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 20.59,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7083892,
+            1.3381994
+          ],
+          [
+            103.7082618,
+            1.338065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 15.72,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7082618,
+            1.338065
+          ],
+          [
+            103.7081875,
+            1.3379447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 14.75,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7081875,
+            1.3379447
+          ],
+          [
+            103.7081574,
+            1.3378155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 22.74,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7081574,
+            1.3378155
+          ],
+          [
+            103.7081786,
+            1.3376121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 18.96,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7081786,
+            1.3376121
+          ],
+          [
+            103.7081627,
+            1.3374423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 14.52,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7081627,
+            1.3374423
+          ],
+          [
+            103.7081043,
+            1.3373255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 16.84,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7081043,
+            1.3373255
+          ],
+          [
+            103.7079933,
+            1.3372225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 9.47,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7079933,
+            1.3372225
+          ],
+          [
+            103.7079309,
+            1.3371645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 12.26,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7079309,
+            1.3371645
+          ],
+          [
+            103.7078565,
+            1.3370831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 15.18,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7078565,
+            1.3370831
+          ],
+          [
+            103.7078176,
+            1.3369522
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 18.72,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7078176,
+            1.3369522
+          ],
+          [
+            103.7078266,
+            1.3367841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 12.73,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7078266,
+            1.3367841
+          ],
+          [
+            103.7078208,
+            1.3366698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 8.7,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7078208,
+            1.3366698
+          ],
+          [
+            103.7078092,
+            1.3365924
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 6.86,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7078092,
+            1.3365924
+          ],
+          [
+            103.7077587,
+            1.3365569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 8.01,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7077587,
+            1.3365569
+          ],
+          [
+            103.7076955,
+            1.3365223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 15.78,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7076955,
+            1.3365223
+          ],
+          [
+            103.7075646,
+            1.3364675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 12.8,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7075646,
+            1.3364675
+          ],
+          [
+            103.7074702,
+            1.3364016
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 10.72,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7074702,
+            1.3364016
+          ],
+          [
+            103.7074018,
+            1.3363337
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "278895947",
+        "highway": "cycleway",
+        "length_m": 5.36,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7074018,
+            1.3363337
+          ],
+          [
+            103.7073676,
+            1.3362997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "474839241",
+        "highway": "footway",
+        "length_m": 4.43,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7071643,
+            1.3385829
+          ],
+          [
+            103.707201,
+            1.3385673
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535906",
+        "highway": "footway",
+        "length_m": 16.72,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7077669,
+            1.3387251
+          ],
+          [
+            103.7078683,
+            1.338614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535906",
+        "highway": "footway",
+        "length_m": 8.76,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7078683,
+            1.338614
+          ],
+          [
+            103.7079045,
+            1.338544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535906",
+        "highway": "footway",
+        "length_m": 1.9,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7079045,
+            1.338544
+          ],
+          [
+            103.7079196,
+            1.3385359
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535906",
+        "highway": "footway",
+        "length_m": 5.18,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7079196,
+            1.3385359
+          ],
+          [
+            103.7079606,
+            1.3385137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535906",
+        "highway": "footway",
+        "length_m": 13.25,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7079606,
+            1.3385137
+          ],
+          [
+            103.708073,
+            1.338474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535906",
+        "highway": "footway",
+        "length_m": 14.79,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.708073,
+            1.338474
+          ],
+          [
+            103.708206,
+            1.3384705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535906",
+        "highway": "footway",
+        "length_m": 15.36,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.708206,
+            1.3384705
+          ],
+          [
+            103.7083415,
+            1.3384974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535906",
+        "highway": "footway",
+        "length_m": 11.27,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7083415,
+            1.3384974
+          ],
+          [
+            103.7084429,
+            1.3384968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535906",
+        "highway": "footway",
+        "length_m": 17.28,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7084429,
+            1.3384968
+          ],
+          [
+            103.7085982,
+            1.3385027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535906",
+        "highway": "footway",
+        "length_m": 9.49,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7085982,
+            1.3385027
+          ],
+          [
+            103.708683,
+            1.3385126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535909",
+        "highway": "footway",
+        "length_m": 7.1,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7071227,
+            1.3384802
+          ],
+          [
+            103.7070973,
+            1.3384216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535910",
+        "highway": "footway",
+        "length_m": 12.27,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072275,
+            1.3382847
+          ],
+          [
+            103.70712,
+            1.3382598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535911",
+        "highway": "steps",
+        "length_m": 12.32,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7071643,
+            1.3385829
+          ],
+          [
+            103.7071227,
+            1.3384802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535914",
+        "highway": "footway",
+        "length_m": 5.22,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7095535,
+            1.3382966
+          ],
+          [
+            103.7095199,
+            1.3383294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535914",
+        "highway": "footway",
+        "length_m": 1.41,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7095199,
+            1.3383294
+          ],
+          [
+            103.7095123,
+            1.3383395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535914",
+        "highway": "footway",
+        "length_m": 4.93,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7095123,
+            1.3383395
+          ],
+          [
+            103.7094791,
+            1.3383689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535914",
+        "highway": "footway",
+        "length_m": 7.51,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7094791,
+            1.3383689
+          ],
+          [
+            103.709418,
+            1.3383978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535914",
+        "highway": "footway",
+        "length_m": 4.22,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.709418,
+            1.3383978
+          ],
+          [
+            103.7093825,
+            1.3384112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535914",
+        "highway": "footway",
+        "length_m": 2.76,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7093825,
+            1.3384112
+          ],
+          [
+            103.7093577,
+            1.3384112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535914",
+        "highway": "footway",
+        "length_m": 3.55,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7093577,
+            1.3384112
+          ],
+          [
+            103.7093262,
+            1.3384058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535914",
+        "highway": "footway",
+        "length_m": 5.46,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7093262,
+            1.3384058
+          ],
+          [
+            103.7092772,
+            1.3384092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535914",
+        "highway": "footway",
+        "length_m": 6.96,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7092772,
+            1.3384092
+          ],
+          [
+            103.7092175,
+            1.338428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535914",
+        "highway": "footway",
+        "length_m": 12.57,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7092175,
+            1.338428
+          ],
+          [
+            103.7091156,
+            1.3384769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535914",
+        "highway": "footway",
+        "length_m": 17.17,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091156,
+            1.3384769
+          ],
+          [
+            103.7089822,
+            1.3385547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535923",
+        "highway": "footway",
+        "length_m": 26.5,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7090667,
+            1.3398036
+          ],
+          [
+            103.7092008,
+            1.3400006
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "539535923",
+        "highway": "footway",
+        "length_m": 9.16,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7092008,
+            1.3400006
+          ],
+          [
+            103.7092309,
+            1.3400773
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "733910348",
+        "highway": "footway",
+        "length_m": 1.03,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7071227,
+            1.3384802
+          ],
+          [
+            103.707114,
+            1.3384833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "733910348",
+        "highway": "footway",
+        "length_m": 58.16,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.707114,
+            1.3384833
+          ],
+          [
+            103.7073098,
+            1.3389683
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "733910348",
+        "highway": "footway",
+        "length_m": 6.64,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073098,
+            1.3389683
+          ],
+          [
+            103.7073514,
+            1.3390112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "733910348",
+        "highway": "footway",
+        "length_m": 4.17,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073514,
+            1.3390112
+          ],
+          [
+            103.7073822,
+            1.3390326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "733910348",
+        "highway": "footway",
+        "length_m": 3.23,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073822,
+            1.3390326
+          ],
+          [
+            103.7073983,
+            1.3390568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "733910348",
+        "highway": "footway",
+        "length_m": 10.25,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073983,
+            1.3390568
+          ],
+          [
+            103.7074479,
+            1.3391345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "733910348",
+        "highway": "footway",
+        "length_m": 43.17,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7074479,
+            1.3391345
+          ],
+          [
+            103.7076853,
+            1.3394418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "733910348",
+        "highway": "footway",
+        "length_m": 20.68,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7076853,
+            1.3394418
+          ],
+          [
+            103.707823,
+            1.3395668
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "733910348",
+        "highway": "footway",
+        "length_m": 27.78,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.707823,
+            1.3395668
+          ],
+          [
+            103.708032,
+            1.3397037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "733910348",
+        "highway": "footway",
+        "length_m": 32.47,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.708032,
+            1.3397037
+          ],
+          [
+            103.7083014,
+            1.3398165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "733910348",
+        "highway": "footway",
+        "length_m": 78.12,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7083014,
+            1.3398165
+          ],
+          [
+            103.7089537,
+            1.3400779
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "733910348",
+        "highway": "footway",
+        "length_m": 18.02,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7089537,
+            1.3400779
+          ],
+          [
+            103.7091099,
+            1.3401213
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "733910348",
+        "highway": "footway",
+        "length_m": 14.31,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091099,
+            1.3401213
+          ],
+          [
+            103.7092309,
+            1.3400773
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "733910348",
+        "highway": "footway",
+        "length_m": 13.5,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7092309,
+            1.3400773
+          ],
+          [
+            103.7093333,
+            1.340012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "733910348",
+        "highway": "footway",
+        "length_m": 16.78,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7093333,
+            1.340012
+          ],
+          [
+            103.7094205,
+            1.3398888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "738714496",
+        "highway": "footway",
+        "length_m": 12.56,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.707201,
+            1.3385673
+          ],
+          [
+            103.7072548,
+            1.3386666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "738714496",
+        "highway": "footway",
+        "length_m": 9.19,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072548,
+            1.3386666
+          ],
+          [
+            103.7073045,
+            1.3387327
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "738714496",
+        "highway": "footway",
+        "length_m": 9.2,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073045,
+            1.3387327
+          ],
+          [
+            103.7073729,
+            1.3387793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "738714496",
+        "highway": "footway",
+        "length_m": 9.19,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073729,
+            1.3387793
+          ],
+          [
+            103.7074526,
+            1.3388014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "738714496",
+        "highway": "footway",
+        "length_m": 15.21,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7074526,
+            1.3388014
+          ],
+          [
+            103.7075888,
+            1.3388148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "738714496",
+        "highway": "footway",
+        "length_m": 11.58,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7075888,
+            1.3388148
+          ],
+          [
+            103.7076874,
+            1.3387813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "738714496",
+        "highway": "footway",
+        "length_m": 10.82,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7076874,
+            1.3387813
+          ],
+          [
+            103.7077669,
+            1.3387251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "738878168",
+        "highway": "footway",
+        "length_m": 18.11,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091984,
+            1.3396355
+          ],
+          [
+            103.7093597,
+            1.3396582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "812671142",
+        "highway": "footway",
+        "length_m": 5.36,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.707823,
+            1.3395668
+          ],
+          [
+            103.7077913,
+            1.3396031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "812671142",
+        "highway": "footway",
+        "length_m": 8.95,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7077913,
+            1.3396031
+          ],
+          [
+            103.7077421,
+            1.3396668
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "903357836",
+        "highway": "footway",
+        "length_m": 5.83,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7092309,
+            1.3400773
+          ],
+          [
+            103.7092501,
+            1.3401261
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024066",
+        "highway": "footway",
+        "length_m": 32.4,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7063121,
+            1.3362457
+          ],
+          [
+            103.7064143,
+            1.3365186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024066",
+        "highway": "footway",
+        "length_m": 21.71,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7064143,
+            1.3365186
+          ],
+          [
+            103.7064837,
+            1.3367011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024066",
+        "highway": "footway",
+        "length_m": 31.76,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7064837,
+            1.3367011
+          ],
+          [
+            103.7065876,
+            1.3369672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024066",
+        "highway": "footway",
+        "length_m": 37.83,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7065876,
+            1.3369672
+          ],
+          [
+            103.7067056,
+            1.3372863
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024066",
+        "highway": "footway",
+        "length_m": 23.8,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7067056,
+            1.3372863
+          ],
+          [
+            103.7067879,
+            1.3374839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024066",
+        "highway": "footway",
+        "length_m": 10.67,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7067879,
+            1.3374839
+          ],
+          [
+            103.7068498,
+            1.3375572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024066",
+        "highway": "footway",
+        "length_m": 8.43,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7068498,
+            1.3375572
+          ],
+          [
+            103.7069041,
+            1.3376101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024066",
+        "highway": "footway",
+        "length_m": 3.47,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7069041,
+            1.3376101
+          ],
+          [
+            103.7069212,
+            1.3376362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024066",
+        "highway": "footway",
+        "length_m": 2.24,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7069212,
+            1.3376362
+          ],
+          [
+            103.7069323,
+            1.337653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024066",
+        "highway": "footway",
+        "length_m": 17.03,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7069605,
+            1.337697
+          ],
+          [
+            103.7070094,
+            1.3378421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024066",
+        "highway": "footway",
+        "length_m": 42.05,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7070094,
+            1.3378421
+          ],
+          [
+            103.7071167,
+            1.3382047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024066",
+        "highway": "footway",
+        "length_m": 3.36,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7071167,
+            1.3382047
+          ],
+          [
+            103.7071234,
+            1.3382342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024066",
+        "highway": "footway",
+        "length_m": 2.87,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7071234,
+            1.3382342
+          ],
+          [
+            103.70712,
+            1.3382598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024067",
+        "highway": "construction",
+        "length_m": 13.53,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7063121,
+            1.3362457
+          ],
+          [
+            103.7064144,
+            1.3363116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024067",
+        "highway": "construction",
+        "length_m": 13.23,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7064144,
+            1.3363116
+          ],
+          [
+            103.7065215,
+            1.3363634
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024067",
+        "highway": "construction",
+        "length_m": 3.46,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7065215,
+            1.3363634
+          ],
+          [
+            103.7065495,
+            1.3363769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "904024067",
+        "highway": "construction",
+        "length_m": 19.3,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7065495,
+            1.3363769
+          ],
+          [
+            103.7067037,
+            1.3364567
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "905296448",
+        "highway": "footway",
+        "length_m": 9.9,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7075884,
+            1.3395239
+          ],
+          [
+            103.7076558,
+            1.3394657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "905296448",
+        "highway": "footway",
+        "length_m": 4.22,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7076558,
+            1.3394657
+          ],
+          [
+            103.7076853,
+            1.3394418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "905308779",
+        "highway": "footway",
+        "length_m": 45.93,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7095674,
+            1.3387923
+          ],
+          [
+            103.7095564,
+            1.3383794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "905308779",
+        "highway": "footway",
+        "length_m": 9.21,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7095564,
+            1.3383794
+          ],
+          [
+            103.7095535,
+            1.3382966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "905308779",
+        "highway": "footway",
+        "length_m": 5.43,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7095535,
+            1.3382966
+          ],
+          [
+            103.7096,
+            1.3382817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "905309068",
+        "highway": "footway",
+        "length_m": 31.38,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7091941,
+            1.338855
+          ],
+          [
+            103.7094578,
+            1.3387542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1374820525",
+        "highway": "cycleway",
+        "length_m": 21.54,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7062381,
+            1.3360667
+          ],
+          [
+            103.7063121,
+            1.3362457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481225",
+        "highway": "footway",
+        "length_m": 20.0,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7062381,
+            1.3360667
+          ],
+          [
+            103.7061676,
+            1.3359012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481225",
+        "highway": "footway",
+        "length_m": 32.6,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7061676,
+            1.3359012
+          ],
+          [
+            103.7060568,
+            1.3356298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481225",
+        "highway": "footway",
+        "length_m": 8.96,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7060568,
+            1.3356298
+          ],
+          [
+            103.7060116,
+            1.3355631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481225",
+        "highway": "footway",
+        "length_m": 182.79,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7060116,
+            1.3355631
+          ],
+          [
+            103.7076558,
+            1.3355831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481226",
+        "highway": "construction",
+        "length_m": 10.19,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7076558,
+            1.3355831
+          ],
+          [
+            103.7076688,
+            1.3356738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481226",
+        "highway": "construction",
+        "length_m": 8.48,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7076688,
+            1.3356738
+          ],
+          [
+            103.7076626,
+            1.3357498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481226",
+        "highway": "construction",
+        "length_m": 6.53,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7076626,
+            1.3357498
+          ],
+          [
+            103.7076442,
+            1.3358056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481226",
+        "highway": "construction",
+        "length_m": 6.56,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7076442,
+            1.3358056
+          ],
+          [
+            103.7076165,
+            1.3358577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481226",
+        "highway": "construction",
+        "length_m": 7.8,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7076165,
+            1.3358577
+          ],
+          [
+            103.7075776,
+            1.3359161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481226",
+        "highway": "construction",
+        "length_m": 7.88,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7075776,
+            1.3359161
+          ],
+          [
+            103.7075245,
+            1.335963
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481226",
+        "highway": "construction",
+        "length_m": 7.47,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7075245,
+            1.335963
+          ],
+          [
+            103.7074644,
+            1.3359931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481226",
+        "highway": "construction",
+        "length_m": 8.01,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7074644,
+            1.3359931
+          ],
+          [
+            103.7073936,
+            1.3360064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481226",
+        "highway": "construction",
+        "length_m": 7.68,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073936,
+            1.3360064
+          ],
+          [
+            103.7073245,
+            1.3360065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481227",
+        "highway": "footway",
+        "length_m": 66.13,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7066709,
+            1.3365144
+          ],
+          [
+            103.7072587,
+            1.336423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481227",
+        "highway": "footway",
+        "length_m": 18.29,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072587,
+            1.336423
+          ],
+          [
+            103.7073676,
+            1.3362997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481228",
+        "highway": "construction",
+        "length_m": 7.38,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7066709,
+            1.3365144
+          ],
+          [
+            103.7067037,
+            1.3364567
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481228",
+        "highway": "construction",
+        "length_m": 3.3,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7067037,
+            1.3364567
+          ],
+          [
+            103.7067214,
+            1.3364329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481228",
+        "highway": "construction",
+        "length_m": 10.65,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7067214,
+            1.3364329
+          ],
+          [
+            103.7067918,
+            1.3363679
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481228",
+        "highway": "construction",
+        "length_m": 3.1,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7067918,
+            1.3363679
+          ],
+          [
+            103.7068166,
+            1.3363551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481228",
+        "highway": "construction",
+        "length_m": 7.56,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7068166,
+            1.3363551
+          ],
+          [
+            103.7068771,
+            1.3363241
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481228",
+        "highway": "construction",
+        "length_m": 9.93,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7068771,
+            1.3363241
+          ],
+          [
+            103.7069644,
+            1.3363052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481228",
+        "highway": "construction",
+        "length_m": 8.22,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7069644,
+            1.3363052
+          ],
+          [
+            103.7070383,
+            1.3363034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481228",
+        "highway": "construction",
+        "length_m": 4.91,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7070383,
+            1.3363034
+          ],
+          [
+            103.7070819,
+            1.3363104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481228",
+        "highway": "construction",
+        "length_m": 6.92,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7070819,
+            1.3363104
+          ],
+          [
+            103.7071393,
+            1.3363345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481228",
+        "highway": "construction",
+        "length_m": 4.07,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7071393,
+            1.3363345
+          ],
+          [
+            103.7071704,
+            1.3363538
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481228",
+        "highway": "construction",
+        "length_m": 7.69,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7071704,
+            1.3363538
+          ],
+          [
+            103.7072292,
+            1.3363902
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481228",
+        "highway": "construction",
+        "length_m": 4.9,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072292,
+            1.3363902
+          ],
+          [
+            103.7072587,
+            1.336423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481229",
+        "highway": "cycleway",
+        "length_m": 3.25,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072587,
+            1.336423
+          ],
+          [
+            103.7072782,
+            1.3364448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481229",
+        "highway": "cycleway",
+        "length_m": 9.94,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072782,
+            1.3364448
+          ],
+          [
+            103.7073227,
+            1.3365223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481229",
+        "highway": "cycleway",
+        "length_m": 9.94,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073227,
+            1.3365223
+          ],
+          [
+            103.7073463,
+            1.3366085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481229",
+        "highway": "cycleway",
+        "length_m": 9.93,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073463,
+            1.3366085
+          ],
+          [
+            103.7073477,
+            1.3366978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481229",
+        "highway": "cycleway",
+        "length_m": 9.94,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073477,
+            1.3366978
+          ],
+          [
+            103.7073267,
+            1.3367847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481230",
+        "highway": "construction",
+        "length_m": 2.96,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073676,
+            1.3362997
+          ],
+          [
+            103.7073427,
+            1.3362903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481230",
+        "highway": "construction",
+        "length_m": 2.38,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073427,
+            1.3362903
+          ],
+          [
+            103.7073213,
+            1.3362903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481230",
+        "highway": "construction",
+        "length_m": 2.1,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073213,
+            1.3362903
+          ],
+          [
+            103.7073025,
+            1.3362923
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481230",
+        "highway": "construction",
+        "length_m": 4.18,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7073025,
+            1.3362923
+          ],
+          [
+            103.7072737,
+            1.3363165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481230",
+        "highway": "construction",
+        "length_m": 5.87,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072737,
+            1.3363165
+          ],
+          [
+            103.7072464,
+            1.3363617
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481230",
+        "highway": "construction",
+        "length_m": 3.7,
+        "status": "EXCLUDED",
+        "reason": "construction_or_no_access",
+        "field_verified": false,
+        "bridge": "",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7072464,
+            1.3363617
+          ],
+          [
+            103.7072292,
+            1.3363902
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481231",
+        "highway": "footway",
+        "length_m": 18.39,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7095629,
+            1.3389576
+          ],
+          [
+            103.7095674,
+            1.3387923
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481232",
+        "highway": "cycleway",
+        "length_m": 46.93,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7094205,
+            1.3398888
+          ],
+          [
+            103.709522,
+            1.3394791
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_way_id": "1495481232",
+        "highway": "cycleway",
+        "length_m": 58.17,
+        "status": "MAP_CANDIDATE",
+        "reason": "",
+        "field_verified": true,
+        "bridge": "",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.709522,
+            1.3394791
+          ],
+          [
+            103.7095629,
+            1.3389576
+          ]
+        ]
+      }
+    }
+  ]
+}

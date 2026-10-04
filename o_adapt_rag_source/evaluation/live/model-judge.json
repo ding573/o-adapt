@@ -1,0 +1,755 @@
+{
+  "recorded_at": "2026-09-29T10:54:38.066Z",
+  "judge_model": "openai/gpt-4o-mini",
+  "reported_cost_usd": 0.0033910499999999996,
+  "results": [
+    {
+      "id": "N01",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 4,
+          "reason": "The content is clear, but somewhat repetitive."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The information is complete, clear and concise."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 887,
+        "completion_tokens": 117,
+        "total_tokens": 1004,
+        "cost": 0.00020325,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00020325,
+          "upstream_inference_prompt_cost": 0.00013305,
+          "upstream_inference_completions_cost": 7.02e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 1974.9126250000002
+    },
+    {
+      "id": "N02",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 4,
+          "reason": "The content is clear, but somewhat repetitive."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The information is clear and concise."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 818,
+        "completion_tokens": 114,
+        "total_tokens": 932,
+        "cost": 0.0001911,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0001911,
+          "upstream_inference_prompt_cost": 0.0001227,
+          "upstream_inference_completions_cost": 6.84e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 3156.6581670000005
+    },
+    {
+      "id": "N03",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The route fits training, with clear controls."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The information is accurate and supported by the evidence."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 846,
+        "completion_tokens": 114,
+        "total_tokens": 960,
+        "cost": 0.0001953,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0001953,
+          "upstream_inference_prompt_cost": 0.0001269,
+          "upstream_inference_completions_cost": 6.84e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 3115.3699589999997
+    },
+    {
+      "id": "N04",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 4,
+          "reason": "The description is clear, but slightly verbose."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The information is clear and concise."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 936,
+        "completion_tokens": 122,
+        "total_tokens": 1058,
+        "cost": 0.0002136,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0002136,
+          "upstream_inference_prompt_cost": 0.0001404,
+          "upstream_inference_completions_cost": 7.32e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 1727.8345840000002
+    },
+    {
+      "id": "N05",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The route fits training, with clear controls."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The information is accurate and easy to understand."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 857,
+        "completion_tokens": 115,
+        "total_tokens": 972,
+        "cost": 0.00019755,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00019755,
+          "upstream_inference_prompt_cost": 0.00012855,
+          "upstream_inference_completions_cost": 6.9e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 3321.5574159999996
+    },
+    {
+      "id": "N07",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 4,
+          "reason": "The content is clear, but somewhat repetitive."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The information is clear and concise."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 874,
+        "completion_tokens": 114,
+        "total_tokens": 988,
+        "cost": 0.0001995,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0001995,
+          "upstream_inference_prompt_cost": 0.0001311,
+          "upstream_inference_completions_cost": 6.84e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 2420.7573329999996
+    },
+    {
+      "id": "N08",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The route fits training, with clear controls."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The route fits training."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 822,
+        "completion_tokens": 116,
+        "total_tokens": 938,
+        "cost": 0.0001929,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0001929,
+          "upstream_inference_prompt_cost": 0.0001233,
+          "upstream_inference_completions_cost": 6.96e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 2955.9007089999996
+    },
+    {
+      "id": "N09",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 4,
+          "reason": "The content is clear, but somewhat repetitive."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The information is clear and concise."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 820,
+        "completion_tokens": 114,
+        "total_tokens": 934,
+        "cost": 0.0001914,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0001914,
+          "upstream_inference_prompt_cost": 0.000123,
+          "upstream_inference_completions_cost": 6.84e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 1688.0250410000008
+    },
+    {
+      "id": "N10",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 4,
+          "reason": "The description is clear, but slightly verbose."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The information is complete, clear and concise."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 868,
+        "completion_tokens": 120,
+        "total_tokens": 988,
+        "cost": 0.0002022,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0002022,
+          "upstream_inference_prompt_cost": 0.0001302,
+          "upstream_inference_completions_cost": 7.2e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 2994.6573339999995
+    },
+    {
+      "id": "N13",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The route fits training, with clear controls."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The information is accurate, clear and concise."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 937,
+        "completion_tokens": 115,
+        "total_tokens": 1052,
+        "cost": 0.00020955,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00020955,
+          "upstream_inference_prompt_cost": 0.00014055,
+          "upstream_inference_completions_cost": 6.9e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 2487.5809999999983
+    },
+    {
+      "id": "N14",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 4,
+          "reason": "The description is clear, but slightly verbose."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The information is complete, clear and concise."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 874,
+        "completion_tokens": 120,
+        "total_tokens": 994,
+        "cost": 0.0002031,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0002031,
+          "upstream_inference_prompt_cost": 0.0001311,
+          "upstream_inference_completions_cost": 7.2e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 1658.1193329999987
+    },
+    {
+      "id": "N15",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The route fits training, with clear controls."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The information is accurate, clear and concise."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 905,
+        "completion_tokens": 116,
+        "total_tokens": 1021,
+        "cost": 0.00020535,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00020535,
+          "upstream_inference_prompt_cost": 0.00013575,
+          "upstream_inference_completions_cost": 6.96e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 1928.7575830000023
+    },
+    {
+      "id": "N16",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 4,
+          "reason": "The description is clear, but slightly verbose."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The information is complete, clear and concise."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 886,
+        "completion_tokens": 120,
+        "total_tokens": 1006,
+        "cost": 0.0002049,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0002049,
+          "upstream_inference_prompt_cost": 0.0001329,
+          "upstream_inference_completions_cost": 7.2e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 1673.083541
+    },
+    {
+      "id": "N17",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The route fits training, with clear controls."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The information is accurate, clear and concise."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 859,
+        "completion_tokens": 115,
+        "total_tokens": 974,
+        "cost": 0.00019785,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00019785,
+          "upstream_inference_prompt_cost": 0.00012885,
+          "upstream_inference_completions_cost": 6.9e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 1583.7866250000006
+    },
+    {
+      "id": "N18",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The route fits training, with clear controls."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The information is accurate and easy to understand."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 810,
+        "completion_tokens": 115,
+        "total_tokens": 925,
+        "cost": 0.0001905,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0001905,
+          "upstream_inference_prompt_cost": 0.0001215,
+          "upstream_inference_completions_cost": 6.9e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 2684.533250000004
+    },
+    {
+      "id": "N19",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 4,
+          "reason": "The content is clear, but somewhat repetitive."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The information is clear and concise."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 900,
+        "completion_tokens": 114,
+        "total_tokens": 1014,
+        "cost": 0.0002034,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0002034,
+          "upstream_inference_prompt_cost": 0.000135,
+          "upstream_inference_completions_cost": 6.84e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 2996.339874999998
+    },
+    {
+      "id": "N20",
+      "ratings": {
+        "A": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The route fits training, with clear controls."
+        },
+        "B": {
+          "factual_correct": true,
+          "evidence_supported": true,
+          "verification_status_correct": true,
+          "clarity_1_to_5": 5,
+          "reason": "The route fits training."
+        }
+      },
+      "model": "openai/gpt-4o-mini",
+      "usage": {
+        "prompt_tokens": 800,
+        "completion_tokens": 116,
+        "total_tokens": 916,
+        "cost": 0.0001896,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0001896,
+          "upstream_inference_prompt_cost": 0.00012,
+          "upstream_inference_completions_cost": 6.96e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 1452.171583000003
+    }
+  ]
+}

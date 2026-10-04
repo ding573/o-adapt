@@ -1,0 +1,37 @@
+{
+  "verification_id": "FV-2026-09-23-JCP",
+  "recorded_on": "2026-09-23",
+  "record_source": "My field-verification report",
+  "reviewer_role": "I conducted the field verification",
+  "reviewer_identity": "Not recorded in the public dataset",
+  "location_scope": "Publicly accessible areas inside the fixed Jurong Central Park MVP boundary",
+  "asset_scope": {
+    "eligible_path_segments": 238,
+    "eligible_existing_controls": 14,
+    "excluded_path_segments_outside_verified_set": 50,
+    "generated_gp_controls_in_scope": false
+  },
+  "verification_method": "On-foot visual inspection and comparison with the mapped path and control records",
+  "checks_performed": [
+    "Mapped candidate paths were present, connected and publicly accessible at the time of inspection",
+    "Existing control coordinates corresponded to identifiable physical features",
+    "Existing controls could be approached from the verified path network",
+    "No recorded construction, closure, deep water or uncrossable obstacle blocked the eligible paths or existing controls at the time of inspection"
+  ],
+  "control_order": "Any generated sequence restricted to the verified path graph and eligible existing-control set",
+  "path_walked_and_connected": true,
+  "control_features_confirmed": true,
+  "hazard_review_pass": true,
+  "photo_evidence_manifest": "field_evidence/photo_manifest.csv",
+  "photo_evidence_status": "14 photographs I supplied and completed manifest rows are included for all 14 eligible existing controls; CP11 and CP12 use privacy-edited PNG copies",
+  "photo_evidence": {
+    "photo_count": 14,
+    "control_ids": ["CP01", "CP02", "CP03", "CP04", "CP05", "CP06", "CP08", "CP09", "CP10", "CP11", "CP12", "CP14", "CP15", "CP16"],
+    "capture_date": "2026-09-23 (my field report; supplied copies contain no EXIF timestamp or GPS metadata)",
+    "coverage": "One photograph for each eligible existing control showing the named feature or visible approach",
+    "privacy_review": "Completed for CP11.png and CP12.png; visible people and vehicle or plate details are pixelated in the public copies"
+  },
+  "evidence_boundary": "The repository includes 14 control photographs I supplied and a checksum manifest. The photographs support control-feature and visible-approach claims and supplement my record that all 238 eligible path segments were walked and checked. No GPS track or independent third-party field audit is included.",
+  "validity_boundary": "The record is a snapshot of conditions observed on 2026-09-23. Temporary construction, closures, weather and other site changes still require a current-condition check before use.",
+  "note": "Runtime-generated GPxx points are virtual GPS controls placed exactly on nodes of the path network I verified. They do not require physical flags or separate identifiable features; GPS accuracy and temporary site changes remain limitations."
+}

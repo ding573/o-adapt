@@ -1,0 +1,276 @@
+[
+  {
+    "id": "N01",
+    "request": {
+      "targetDistanceM": 600,
+      "difficulty": "beginner",
+      "controlCount": 3,
+      "focus": "navigation"
+    },
+    "ground_truth": {
+      "control_order": [
+        "CP01",
+        "CP12",
+        "CP10",
+        "CP06",
+        "CP16"
+      ],
+      "routed_distance_m": 623.7555159785895,
+      "minimum_spacing_m": 43.71049806383498,
+      "distance_within_tolerance": true,
+      "spacing_pass": true,
+      "field_verified_path_pass": true,
+      "control_points_verified_pass": true,
+      "hazard_review_pass": true,
+      "verification_status": "verified_course",
+      "retrieved_rule_ids": [
+        "KB-02",
+        "KB-03",
+        "KB-05",
+        "KB-06",
+        "KB-07",
+        "KB-08"
+      ]
+    },
+    "outputs": {
+      "A": "Route: CP01 → CP12 → CP10 → CP06 → CP16. Routed distance: 624 m. Minimum spacing between all controls: 44 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "B": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-03, KB-06, KB-07 for control precision, training design, distance, spacing or hazard checks as applicable. The reported route distance is 623.76 m and is within the requested tolerance. Temporary site conditions may change, so check current conditions before use. The original response repeated this warning."
+    },
+    "ratings": {
+      "A": {
+        "factual_correct": true,
+        "evidence_supported": true,
+        "verification_status_correct": true,
+        "clarity_1_to_5": 5
+      },
+      "B": {
+        "factual_correct": true,
+        "evidence_supported": true,
+        "verification_status_correct": true,
+        "clarity_1_to_5": 4
+      }
+    },
+    "reviewer": "R1",
+    "notes": ""
+  },
+  {
+    "id": "N04",
+    "request": {
+      "targetDistanceM": 1200,
+      "difficulty": "beginner",
+      "controlCount": 3,
+      "focus": "route-choice"
+    },
+    "ground_truth": {
+      "control_order": [
+        "CP01",
+        "CP06",
+        "CP09",
+        "CP04",
+        "CP16"
+      ],
+      "routed_distance_m": 1200.981037327238,
+      "minimum_spacing_m": 61.71322500000925,
+      "distance_within_tolerance": true,
+      "spacing_pass": true,
+      "field_verified_path_pass": true,
+      "control_points_verified_pass": true,
+      "hazard_review_pass": true,
+      "verification_status": "verified_course",
+      "retrieved_rule_ids": [
+        "KB-02",
+        "KB-03",
+        "KB-04",
+        "KB-05",
+        "KB-06",
+        "KB-07",
+        "KB-08"
+      ]
+    },
+    "outputs": {
+      "A": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-03, KB-04, KB-07 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use. The original response repeated this warning.",
+      "B": "Route: CP01 → CP06 → CP09 → CP04 → CP16. Routed distance: 1201 m. Minimum spacing between all controls: 62 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training."
+    },
+    "ratings": {
+      "A": {
+        "factual_correct": true,
+        "evidence_supported": true,
+        "verification_status_correct": true,
+        "clarity_1_to_5": 4
+      },
+      "B": {
+        "factual_correct": true,
+        "evidence_supported": true,
+        "verification_status_correct": true,
+        "clarity_1_to_5": 5
+      }
+    },
+    "reviewer": "R1",
+    "notes": ""
+  },
+  {
+    "id": "N09",
+    "request": {
+      "targetDistanceM": 1200,
+      "difficulty": "advanced",
+      "controlCount": 5,
+      "focus": "physical"
+    },
+    "ground_truth": {
+      "control_order": [
+        "CP01",
+        "CP04",
+        "CP12",
+        "CP06",
+        "CP15",
+        "CP08",
+        "CP16"
+      ],
+      "routed_distance_m": 1199.9350232978045,
+      "minimum_spacing_m": 61.69636209670243,
+      "distance_within_tolerance": true,
+      "spacing_pass": true,
+      "field_verified_path_pass": true,
+      "control_points_verified_pass": true,
+      "hazard_review_pass": true,
+      "verification_status": "verified_course",
+      "retrieved_rule_ids": [
+        "KB-02",
+        "KB-05",
+        "KB-06",
+        "KB-07",
+        "KB-08"
+      ]
+    },
+    "outputs": {
+      "A": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-06, KB-07, KB-08 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use.",
+      "B": "Route: CP01 → CP04 → CP12 → CP06 → CP15 → CP08 → CP16. Routed distance: 1200 m. Minimum spacing between all controls: 62 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training."
+    },
+    "ratings": {
+      "A": {
+        "factual_correct": true,
+        "evidence_supported": true,
+        "verification_status_correct": true,
+        "clarity_1_to_5": 4
+      },
+      "B": {
+        "factual_correct": true,
+        "evidence_supported": true,
+        "verification_status_correct": true,
+        "clarity_1_to_5": 5
+      }
+    },
+    "reviewer": "R1",
+    "notes": ""
+  },
+  {
+    "id": "N15",
+    "request": {
+      "targetDistanceM": 1400,
+      "difficulty": "advanced",
+      "controlCount": 5,
+      "focus": "route-choice"
+    },
+    "ground_truth": {
+      "control_order": [
+        "CP01",
+        "CP10",
+        "CP05",
+        "CP03",
+        "CP04",
+        "CP09",
+        "CP16"
+      ],
+      "routed_distance_m": 1400.415919573417,
+      "minimum_spacing_m": 61.71322500000925,
+      "distance_within_tolerance": true,
+      "spacing_pass": true,
+      "field_verified_path_pass": true,
+      "control_points_verified_pass": true,
+      "hazard_review_pass": true,
+      "verification_status": "verified_course",
+      "retrieved_rule_ids": [
+        "KB-02",
+        "KB-04",
+        "KB-05",
+        "KB-06",
+        "KB-07",
+        "KB-08"
+      ]
+    },
+    "outputs": {
+      "A": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-04, KB-06, KB-07, KB-08 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use. The original response repeated this warning.",
+      "B": "Route: CP01 → CP10 → CP05 → CP03 → CP04 → CP09 → CP16. Routed distance: 1400 m. Minimum spacing between all controls: 62 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training."
+    },
+    "ratings": {
+      "A": {
+        "factual_correct": true,
+        "evidence_supported": true,
+        "verification_status_correct": true,
+        "clarity_1_to_5": 4
+      },
+      "B": {
+        "factual_correct": true,
+        "evidence_supported": true,
+        "verification_status_correct": true,
+        "clarity_1_to_5": 5
+      }
+    },
+    "reviewer": "R1",
+    "notes": ""
+  },
+  {
+    "id": "N20",
+    "request": {
+      "targetDistanceM": 1400,
+      "difficulty": "intermediate",
+      "controlCount": 4,
+      "focus": "navigation"
+    },
+    "ground_truth": {
+      "control_order": [
+        "CP01",
+        "CP03",
+        "CP06",
+        "CP15",
+        "CP04",
+        "CP16"
+      ],
+      "routed_distance_m": 1400.0497876283985,
+      "minimum_spacing_m": 61.71322500000925,
+      "distance_within_tolerance": true,
+      "spacing_pass": true,
+      "field_verified_path_pass": true,
+      "control_points_verified_pass": true,
+      "hazard_review_pass": true,
+      "verification_status": "verified_course",
+      "retrieved_rule_ids": [
+        "KB-02",
+        "KB-05",
+        "KB-06",
+        "KB-07",
+        "KB-08"
+      ]
+    },
+    "outputs": {
+      "A": "Route: CP01 → CP03 → CP06 → CP15 → CP04 → CP16. Routed distance: 1400 m. Minimum spacing between all controls: 62 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "B": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-06, KB-07 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use. The original response repeated this warning."
+    },
+    "ratings": {
+      "A": {
+        "factual_correct": true,
+        "evidence_supported": true,
+        "verification_status_correct": true,
+        "clarity_1_to_5": 5
+      },
+      "B": {
+        "factual_correct": true,
+        "evidence_supported": true,
+        "verification_status_correct": true,
+        "clarity_1_to_5": 5
+      }
+    },
+    "reviewer": "R1",
+    "notes": ""
+  }
+]

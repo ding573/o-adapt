@@ -1,0 +1,834 @@
+{
+  "recorded_at": "2026-09-27T17:33:28.475Z",
+  "actual_cost_so_far": 0.0028953000000000004,
+  "results": [
+    {
+      "id": "N01",
+      "request": {
+        "targetDistanceM": 600,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation"
+      },
+      "baseline": "Route: CP01 → CP12 → CP10 → CP06 → CP16. Routed distance: 624 m. Minimum spacing between all controls: 44 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-03",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-03, KB-06, KB-07 for control precision, training design, distance, spacing or hazard checks as applicable. The reported route distance is 623.76 m and is within the requested tolerance. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 1818.8109170000025,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 661,
+          "completion_tokens": 137,
+          "total_tokens": 798,
+          "cost": 0.00018135,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.00018135,
+            "upstream_inference_prompt_cost": 9.915e-05,
+            "upstream_inference_completions_cost": 8.22e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    },
+    {
+      "id": "N02",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "intermediate",
+        "controlCount": 4,
+        "focus": "navigation"
+      },
+      "baseline": "Route: CP01 → CP03 → CP04 → CP10 → CP06 → CP16. Routed distance: 806 m. Minimum spacing between all controls: 62 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-06, KB-07, KB-08 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 1514.1488750000062,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 600,
+          "completion_tokens": 113,
+          "total_tokens": 713,
+          "cost": 0.0001578,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.0001578,
+            "upstream_inference_prompt_cost": 9e-05,
+            "upstream_inference_completions_cost": 6.78e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    },
+    {
+      "id": "N03",
+      "request": {
+        "targetDistanceM": 1000,
+        "difficulty": "advanced",
+        "controlCount": 5,
+        "focus": "navigation"
+      },
+      "baseline": "Route: CP01 → CP04 → CP15 → CP12 → CP08 → CP06 → CP16. Routed distance: 992 m. Minimum spacing between all controls: 62 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-07, KB-06, KB-05 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 1570.6349160000027,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 604,
+          "completion_tokens": 133,
+          "total_tokens": 737,
+          "cost": 0.0001704,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.0001704,
+            "upstream_inference_prompt_cost": 9.06e-05,
+            "upstream_inference_completions_cost": 7.98e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    },
+    {
+      "id": "N04",
+      "request": {
+        "targetDistanceM": 1200,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "route-choice"
+      },
+      "baseline": "Route: CP01 → CP06 → CP09 → CP04 → CP16. Routed distance: 1201 m. Minimum spacing between all controls: 62 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-03",
+          "KB-04",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-03, KB-04, KB-07 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 1769.8420420000039,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 730,
+          "completion_tokens": 131,
+          "total_tokens": 861,
+          "cost": 0.0001881,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.0001881,
+            "upstream_inference_prompt_cost": 0.0001095,
+            "upstream_inference_completions_cost": 7.86e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    },
+    {
+      "id": "N05",
+      "request": {
+        "targetDistanceM": 1400,
+        "difficulty": "intermediate",
+        "controlCount": 4,
+        "focus": "route-choice"
+      },
+      "baseline": "Route: CP01 → CP05 → CP04 → CP09 → CP15 → CP16. Routed distance: 1399 m. Minimum spacing between all controls: 69 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-04",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-04, KB-07 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 2123.813291999999,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 671,
+          "completion_tokens": 95,
+          "total_tokens": 766,
+          "cost": 0.00015765,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.00015765,
+            "upstream_inference_prompt_cost": 0.00010065,
+            "upstream_inference_completions_cost": 5.7e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    },
+    {
+      "id": "N07",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "physical"
+      },
+      "baseline": "Route: CP01 → CP05 → CP06 → CP10 → CP16. Routed distance: 802 m. Minimum spacing between all controls: 62 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-03",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-03, KB-06, KB-07 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 1645.081624999999,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 661,
+          "completion_tokens": 123,
+          "total_tokens": 784,
+          "cost": 0.00017295,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.00017295,
+            "upstream_inference_prompt_cost": 9.915e-05,
+            "upstream_inference_completions_cost": 7.38e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    },
+    {
+      "id": "N08",
+      "request": {
+        "targetDistanceM": 1000,
+        "difficulty": "intermediate",
+        "controlCount": 4,
+        "focus": "physical"
+      },
+      "baseline": "Route: CP01 → CP06 → CP12 → CP08 → CP15 → CP16. Routed distance: 1000 m. Minimum spacing between all controls: 62 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-06, KB-07, KB-08 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 1717.0642920000028,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 603,
+          "completion_tokens": 112,
+          "total_tokens": 715,
+          "cost": 0.00015765,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.00015765,
+            "upstream_inference_prompt_cost": 9.045e-05,
+            "upstream_inference_completions_cost": 6.72e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    },
+    {
+      "id": "N09",
+      "request": {
+        "targetDistanceM": 1200,
+        "difficulty": "advanced",
+        "controlCount": 5,
+        "focus": "physical"
+      },
+      "baseline": "Route: CP01 → CP04 → CP12 → CP06 → CP15 → CP08 → CP16. Routed distance: 1200 m. Minimum spacing between all controls: 62 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-06, KB-07, KB-08 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 1724.6434169999993,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 605,
+          "completion_tokens": 105,
+          "total_tokens": 710,
+          "cost": 0.00015375,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.00015375,
+            "upstream_inference_prompt_cost": 9.075e-05,
+            "upstream_inference_completions_cost": 6.3e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    },
+    {
+      "id": "N10",
+      "request": {
+        "targetDistanceM": 1400,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation"
+      },
+      "baseline": "Route: CP01 → CP09 → CP03 → CP06 → CP16. Routed distance: 1405 m. Minimum spacing between all controls: 62 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-03",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-03, KB-06, KB-07 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 1938.4337499999965,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 662,
+          "completion_tokens": 116,
+          "total_tokens": 778,
+          "cost": 0.0001689,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.0001689,
+            "upstream_inference_prompt_cost": 9.93e-05,
+            "upstream_inference_completions_cost": 6.96e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    },
+    {
+      "id": "N13",
+      "request": {
+        "targetDistanceM": 1000,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "route-choice"
+      },
+      "baseline": "Route: CP01 → CP15 → CP05 → CP09 → CP16. Routed distance: 989 m. Minimum spacing between all controls: 69 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-03",
+          "KB-04",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-03, KB-04, KB-06, KB-07, KB-08 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 2348.0666249999995,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 730,
+          "completion_tokens": 133,
+          "total_tokens": 863,
+          "cost": 0.0001893,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.0001893,
+            "upstream_inference_prompt_cost": 0.0001095,
+            "upstream_inference_completions_cost": 7.98e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    },
+    {
+      "id": "N14",
+      "request": {
+        "targetDistanceM": 1200,
+        "difficulty": "intermediate",
+        "controlCount": 4,
+        "focus": "route-choice"
+      },
+      "baseline": "Route: CP01 → CP03 → CP05 → CP09 → CP15 → CP16. Routed distance: 1197 m. Minimum spacing between all controls: 69 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-04",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-04, KB-07 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 2292.6095419999983,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 671,
+          "completion_tokens": 112,
+          "total_tokens": 783,
+          "cost": 0.00016785,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.00016785,
+            "upstream_inference_prompt_cost": 0.00010065,
+            "upstream_inference_completions_cost": 6.72e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    },
+    {
+      "id": "N15",
+      "request": {
+        "targetDistanceM": 1400,
+        "difficulty": "advanced",
+        "controlCount": 5,
+        "focus": "route-choice"
+      },
+      "baseline": "Route: CP01 → CP10 → CP05 → CP03 → CP04 → CP09 → CP16. Routed distance: 1400 m. Minimum spacing between all controls: 62 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-04",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-04, KB-06, KB-07, KB-08 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 2740.3775830000013,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 672,
+          "completion_tokens": 139,
+          "total_tokens": 811,
+          "cost": 0.0001842,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.0001842,
+            "upstream_inference_prompt_cost": 0.0001008,
+            "upstream_inference_completions_cost": 8.34e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    },
+    {
+      "id": "N16",
+      "request": {
+        "targetDistanceM": 600,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "physical"
+      },
+      "baseline": "Route: CP01 → CP12 → CP10 → CP06 → CP16. Routed distance: 624 m. Minimum spacing between all controls: 44 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-03",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-03, KB-06, KB-07 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 3007.9065420000043,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 661,
+          "completion_tokens": 136,
+          "total_tokens": 797,
+          "cost": 0.00018075,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.00018075,
+            "upstream_inference_prompt_cost": 9.915e-05,
+            "upstream_inference_completions_cost": 8.16e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    },
+    {
+      "id": "N17",
+      "request": {
+        "targetDistanceM": 800,
+        "difficulty": "intermediate",
+        "controlCount": 4,
+        "focus": "physical"
+      },
+      "baseline": "Route: CP01 → CP03 → CP04 → CP06 → CP08 → CP16. Routed distance: 802 m. Minimum spacing between all controls: 62 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-05, KB-06, KB-07, KB-08 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 2960.405749999998,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 601,
+          "completion_tokens": 154,
+          "total_tokens": 755,
+          "cost": 0.00018255,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.00018255,
+            "upstream_inference_prompt_cost": 9.015e-05,
+            "upstream_inference_completions_cost": 9.24e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    },
+    {
+      "id": "N18",
+      "request": {
+        "targetDistanceM": 1000,
+        "difficulty": "advanced",
+        "controlCount": 5,
+        "focus": "physical"
+      },
+      "baseline": "Route: CP01 → CP04 → CP03 → CP12 → CP06 → CP08 → CP16. Routed distance: 998 m. Minimum spacing between all controls: 62 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-06, KB-07 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 1714.0224159999998,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 604,
+          "completion_tokens": 98,
+          "total_tokens": 702,
+          "cost": 0.0001494,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.0001494,
+            "upstream_inference_prompt_cost": 9.06e-05,
+            "upstream_inference_completions_cost": 5.88e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    },
+    {
+      "id": "N19",
+      "request": {
+        "targetDistanceM": 1200,
+        "difficulty": "beginner",
+        "controlCount": 3,
+        "focus": "navigation"
+      },
+      "baseline": "Route: CP01 → CP06 → CP10 → CP03 → CP16. Routed distance: 1205 m. Minimum spacing between all controls: 62 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-03",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-03, KB-07 for control precision, training design, distance, spacing or hazard checks as applicable. The reported route distance is 1205.23 m and is within the requested tolerance. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 1631.202416,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 663,
+          "completion_tokens": 147,
+          "total_tokens": 810,
+          "cost": 0.00018765,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.00018765,
+            "upstream_inference_prompt_cost": 9.945e-05,
+            "upstream_inference_completions_cost": 8.82e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    },
+    {
+      "id": "N20",
+      "request": {
+        "targetDistanceM": 1400,
+        "difficulty": "intermediate",
+        "controlCount": 4,
+        "focus": "navigation"
+      },
+      "baseline": "Route: CP01 → CP03 → CP06 → CP15 → CP04 → CP16. Routed distance: 1400 m. Minimum spacing between all controls: 62 m. Distance and spacing checks passed. The paths, controls and hazards are within the project-verified scope. Check temporary construction, weather and other current site conditions before training.",
+      "response": {
+        "status": "ok",
+        "retrieved_rule_ids": [
+          "KB-02",
+          "KB-05",
+          "KB-06",
+          "KB-07",
+          "KB-08"
+        ],
+        "explanation": "The route passed the recorded project verification and is suitable for real use within that scope. The explanation cites KB-02, KB-06, KB-07 for control precision, training design, distance, spacing or hazard checks as applicable. Temporary site conditions may change, so check current conditions before use.",
+        "risk_note": "Temporary site conditions may change; check current conditions before use.",
+        "latency_ms": 2274.987792,
+        "model": "openai/gpt-4o-mini",
+        "usage": {
+          "prompt_tokens": 603,
+          "completion_tokens": 91,
+          "total_tokens": 694,
+          "cost": 0.00014505,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.00014505,
+            "upstream_inference_prompt_cost": 9.045e-05,
+            "upstream_inference_completions_cost": 5.46e-05
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "http_status": 200
+    }
+  ]
+}

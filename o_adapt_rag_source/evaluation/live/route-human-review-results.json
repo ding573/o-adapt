@@ -1,0 +1,15 @@
+{
+  "recorded_at": "2026-10-02T07:53:49.315Z",
+  "cases": 5,
+  "reviewers": [
+    "D"
+  ],
+  "mean_user_request_fit": 4.6,
+  "mean_training_focus_fit": 4.4,
+  "user_request_fit_at_least_4": 4,
+  "training_focus_fit_at_least_4": 4,
+  "selection_reason_supported": 4,
+  "notable_failure_cases": [
+    "N03"
+  ]
+}

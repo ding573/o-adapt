@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "provenance": "Predefined exploration-mode cases based on project requirements and boundary scenarios, then fixed before the recorded run. Expected outcomes test virtual-control generation and validation behaviour.",
+  "cases": [
+    {"id":"X01","group":"explore_normal","request":{"targetDistanceM":600,"difficulty":"beginner","controlCount":3,"focus":"navigation","controlMode":"explore"},"expected":"generated_virtual_route"},
+    {"id":"X02","group":"explore_normal","request":{"targetDistanceM":800,"difficulty":"intermediate","controlCount":4,"focus":"navigation","controlMode":"explore"},"expected":"generated_virtual_route"},
+    {"id":"X03","group":"explore_normal","request":{"targetDistanceM":1000,"difficulty":"advanced","controlCount":5,"focus":"navigation","controlMode":"explore"},"expected":"generated_virtual_route"},
+    {"id":"X04","group":"explore_normal","request":{"targetDistanceM":1200,"difficulty":"beginner","controlCount":3,"focus":"route-choice","controlMode":"explore"},"expected":"generated_virtual_route"},
+    {"id":"X05","group":"explore_normal","request":{"targetDistanceM":1400,"difficulty":"intermediate","controlCount":4,"focus":"physical","controlMode":"explore"},"expected":"generated_virtual_route"},
+    {"id":"X06","group":"explore_normal","request":{"targetDistanceM":1000,"difficulty":"intermediate","controlCount":5,"focus":"route-choice","controlMode":"explore"},"expected":"generated_virtual_route"},
+    {"id":"X07","group":"explore_edge","mutation":"unverified_paths","request":{"targetDistanceM":800,"difficulty":"beginner","controlCount":3,"focus":"navigation","controlMode":"explore"},"expected":"abstained"},
+    {"id":"X08","group":"explore_edge","mutation":"excluded_paths","request":{"targetDistanceM":800,"difficulty":"beginner","controlCount":3,"focus":"navigation","controlMode":"explore"},"expected":"abstained"},
+    {"id":"X09","group":"explore_edge","mutation":"missing_start","request":{"targetDistanceM":800,"difficulty":"beginner","controlCount":3,"focus":"navigation","controlMode":"explore"},"expected":"abstained"},
+    {"id":"X10","group":"explore_edge","mutation":"invalid_count","request":{"targetDistanceM":800,"difficulty":"beginner","controlCount":3,"focus":"navigation","controlMode":"explore"},"expected":"abstained"}
+  ]
+}

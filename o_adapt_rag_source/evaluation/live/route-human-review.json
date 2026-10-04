@@ -1,0 +1,275 @@
+[
+  {
+    "id": "N01",
+    "request": {
+      "targetDistanceM": 600,
+      "difficulty": "beginner",
+      "controlCount": 3,
+      "focus": "navigation"
+    },
+    "selected_control_order": [
+      "CP01",
+      "CP04",
+      "CP12",
+      "CP10",
+      "CP16"
+    ],
+    "routed_distance_m": 616.9132544674192,
+    "control_features": [
+      {
+        "id": "CP04",
+        "feature_type": "Other",
+        "description": "Bench at 1°20′15″N"
+      },
+      {
+        "id": "CP12",
+        "feature_type": "Other",
+        "description": "Outside lower-left corner of McDonald's"
+      },
+      {
+        "id": "CP10",
+        "feature_type": "Path bend",
+        "description": "Path bend"
+      }
+    ],
+    "retrieved_rule_ids": [
+      "KB-02",
+      "KB-03",
+      "KB-05",
+      "KB-06",
+      "KB-07",
+      "KB-08"
+    ],
+    "model_selection_reason": "Meets beginner navigation-training requirements with prominent controls and a suitable distance.",
+    "ratings": {
+      "user_request_fit_1_to_5": 5,
+      "training_focus_fit_1_to_5": 5,
+      "selection_reason_supported": true
+    },
+    "reviewer": "D",
+    "notes": ""
+  },
+  {
+    "id": "N02",
+    "request": {
+      "targetDistanceM": 800,
+      "difficulty": "intermediate",
+      "controlCount": 4,
+      "focus": "navigation"
+    },
+    "selected_control_order": [
+      "CP01",
+      "CP03",
+      "CP04",
+      "CP06",
+      "CP08",
+      "CP16"
+    ],
+    "routed_distance_m": 801.8244307361352,
+    "control_features": [
+      {
+        "id": "CP03",
+        "feature_type": "Other",
+        "description": "In front of a stone feature"
+      },
+      {
+        "id": "CP04",
+        "feature_type": "Other",
+        "description": "Bench at 1°20′15″N"
+      },
+      {
+        "id": "CP06",
+        "feature_type": "Entrance",
+        "description": "Bridge entrance / one end"
+      },
+      {
+        "id": "CP08",
+        "feature_type": "Shelter",
+        "description": "Pavilion outer corner"
+      }
+    ],
+    "retrieved_rule_ids": [
+      "KB-02",
+      "KB-05",
+      "KB-06",
+      "KB-07",
+      "KB-08"
+    ],
+    "model_selection_reason": "The controls are reasonably distributed and suitable for navigation training.",
+    "ratings": {
+      "user_request_fit_1_to_5": 5,
+      "training_focus_fit_1_to_5": 5,
+      "selection_reason_supported": true
+    },
+    "reviewer": "D",
+    "notes": ""
+  },
+  {
+    "id": "N03",
+    "request": {
+      "targetDistanceM": 1000,
+      "difficulty": "advanced",
+      "controlCount": 5,
+      "focus": "navigation"
+    },
+    "selected_control_order": [
+      "CP01",
+      "CP04",
+      "CP03",
+      "CP12",
+      "CP06",
+      "CP08",
+      "CP16"
+    ],
+    "routed_distance_m": 998.3792915692604,
+    "control_features": [
+      {
+        "id": "CP04",
+        "feature_type": "Other",
+        "description": "Bench at 1°20′15″N"
+      },
+      {
+        "id": "CP03",
+        "feature_type": "Other",
+        "description": "In front of a stone feature"
+      },
+      {
+        "id": "CP12",
+        "feature_type": "Other",
+        "description": "Outside lower-left corner of McDonald's"
+      },
+      {
+        "id": "CP06",
+        "feature_type": "Entrance",
+        "description": "Bridge entrance / one end"
+      },
+      {
+        "id": "CP08",
+        "feature_type": "Shelter",
+        "description": "Pavilion outer corner"
+      }
+    ],
+    "retrieved_rule_ids": [
+      "KB-02",
+      "KB-05",
+      "KB-06",
+      "KB-07",
+      "KB-08"
+    ],
+    "model_selection_reason": "Meets navigation-training requirements with a reasonable control distribution.",
+    "ratings": {
+      "user_request_fit_1_to_5": 3,
+      "training_focus_fit_1_to_5": 3,
+      "selection_reason_supported": false
+    },
+    "reviewer": "D",
+    "notes": "The difficulty classification is incorrect. A high-density layout of 1000 meters with 5 checkpoints falls under the category of an 'intermediate technical route' or an 'advanced physical route'; it lacks the long-distance decision-making or complex terrain challenges required for the advanced category, rendering the model's rationale invalid."
+  },
+  {
+    "id": "N04",
+    "request": {
+      "targetDistanceM": 1200,
+      "difficulty": "beginner",
+      "controlCount": 3,
+      "focus": "route-choice"
+    },
+    "selected_control_order": [
+      "CP01",
+      "CP06",
+      "CP10",
+      "CP03",
+      "CP16"
+    ],
+    "routed_distance_m": 1205.2267092826542,
+    "control_features": [
+      {
+        "id": "CP06",
+        "feature_type": "Entrance",
+        "description": "Bridge entrance / one end"
+      },
+      {
+        "id": "CP10",
+        "feature_type": "Path bend",
+        "description": "Path bend"
+      },
+      {
+        "id": "CP03",
+        "feature_type": "Other",
+        "description": "In front of a stone feature"
+      }
+    ],
+    "retrieved_rule_ids": [
+      "KB-02",
+      "KB-03",
+      "KB-04",
+      "KB-05",
+      "KB-06",
+      "KB-07",
+      "KB-08"
+    ],
+    "model_selection_reason": "Meets beginner route-choice training requirements.",
+    "ratings": {
+      "user_request_fit_1_to_5": 5,
+      "training_focus_fit_1_to_5": 5,
+      "selection_reason_supported": true
+    },
+    "reviewer": "D",
+    "notes": ""
+  },
+  {
+    "id": "N05",
+    "request": {
+      "targetDistanceM": 1400,
+      "difficulty": "intermediate",
+      "controlCount": 4,
+      "focus": "route-choice"
+    },
+    "selected_control_order": [
+      "CP01",
+      "CP05",
+      "CP04",
+      "CP09",
+      "CP15",
+      "CP16"
+    ],
+    "routed_distance_m": 1399.4092879533587,
+    "control_features": [
+      {
+        "id": "CP05",
+        "feature_type": "Junction",
+        "description": "Path junction"
+      },
+      {
+        "id": "CP04",
+        "feature_type": "Other",
+        "description": "Bench at 1°20′15″N"
+      },
+      {
+        "id": "CP09",
+        "feature_type": "Junction",
+        "description": "Path junction"
+      },
+      {
+        "id": "CP15",
+        "feature_type": "Clock tower",
+        "description": "Clock Tower"
+      }
+    ],
+    "retrieved_rule_ids": [
+      "KB-02",
+      "KB-04",
+      "KB-05",
+      "KB-06",
+      "KB-07",
+      "KB-08"
+    ],
+    "model_selection_reason": "Meets intermediate difficulty and route-choice training requirements.",
+    "ratings": {
+      "user_request_fit_1_to_5": 5,
+      "training_focus_fit_1_to_5": 4,
+      "selection_reason_supported": true
+    },
+    "reviewer": "D",
+    "notes": "1,400 meters may be physically demanding for intermediate users."
+  }
+]

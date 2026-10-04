@@ -1,0 +1,22 @@
+{
+  "name": "o-adapt-rag-orienteering",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Knowledge-grounded orienteering course generator for Jurong Central Park",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node test/smoke.mjs && node test/activity.mjs && node test/http.mjs",
+    "evaluate": "node evaluation/run.mjs",
+    "evaluate:explore": "node evaluation/run-explore.mjs",
+    "evaluate:live": "node evaluation/live.mjs",
+    "evaluate:route-human": "node evaluation/validate-route-human.mjs",
+    "evaluate:holdout": "node evaluation/holdout/run.mjs",
+    "evaluate:holdout:calibrate": "node evaluation/holdout/calibrate.mjs",
+    "evaluate:judge": "node evaluation/judge.mjs",
+    "evaluate:judge:validate": "node evaluation/validate-judge.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

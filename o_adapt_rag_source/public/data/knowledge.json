@@ -1,0 +1,78 @@
+{
+  "name": "O-Adapt Orienteering Knowledge Base",
+  "version": "2026-09-26",
+  "documents": [
+    {
+      "id": "KB-01",
+      "title": "ISSprOM 2019-2 — sprint map and course display",
+      "source": "International Orienteering Federation / O-Map Wiki",
+      "url": "https://omapwiki.orienteering.sport/specifications/issprom/",
+      "tags": ["issprom", "map", "course-display", "all"],
+      "text": "ISSprOM is used for sprint events in urban areas, parks and campuses. The participant map shows a start triangle, numbered control circles, straight leg lines and a double-circle finish; the straight lines do not prescribe the actual route travelled.",
+      "parameters": {"display_straight_legs": true, "map_scale": 4000}
+    },
+    {
+      "id": "KB-02",
+      "title": "Control feature precision",
+      "source": "IOF Control Descriptions",
+      "url": "https://orienteering.sport/iof/rules/control-descriptions/",
+      "tags": ["control", "navigation", "beginner", "all"],
+      "text": "A control must correspond to an identifiable, precise feature and position rather than a broad area. Entrances, junctions, bends and distinct man-made objects are usually easier to describe than vague areas.",
+      "parameters": {"prefer_distinct_features": true}
+    },
+    {
+      "id": "KB-03",
+      "title": "Beginner course design",
+      "source": "Better Orienteering",
+      "url": "https://betterorienteering.org/",
+      "tags": ["beginner", "navigation", "difficulty"],
+      "text": "Beginner training should use prominent features and clear linear features so that difficulty comes from basic navigation rather than deeply hidden or ambiguously described controls.",
+      "parameters": {"feature_preference": ["Entrance", "Junction", "Shelter", "Clock tower", "Path bend"]}
+    },
+    {
+      "id": "KB-04",
+      "title": "Route-choice training",
+      "source": "British Orienteering — Coaching Resources",
+      "url": "https://www.britishorienteering.org.uk/coaching_resources",
+      "tags": ["route-choice", "intermediate", "advanced", "difficulty"],
+      "text": "Route-choice training should preserve multiple feasible options between controls. The system may calculate a reference shortest path for verification, but it should not reveal that answer to participants before training.",
+      "parameters": {"hide_reference_route_until_finish": true}
+    },
+    {
+      "id": "KB-05",
+      "title": "OSM is a candidate source, not proof of access",
+      "source": "O-Adapt field-verification policy",
+      "url": "https://www.openstreetmap.org/copyright",
+      "tags": ["safety", "path", "all"],
+      "text": "A mapped line does not prove that a path is open, connected or safe in the field. A path without field verification may be used only for prototype calculations and cannot be released as a real training route.",
+      "parameters": {"require_field_verified_paths": true, "maximum_snap_m": 20}
+    },
+    {
+      "id": "KB-06",
+      "title": "MVP distance evaluation rule",
+      "source": "PE6201 project evaluation design",
+      "url": "#",
+      "tags": ["distance", "evaluation", "physical", "all"],
+      "text": "Use path-network distance rather than straight-line distance between controls. The generated route must be within ±10% of the requested total distance.",
+      "parameters": {"distance_tolerance": 0.10}
+    },
+    {
+      "id": "KB-07",
+      "title": "Project spacing rule",
+      "source": "O-Adapt deterministic safety gate",
+      "url": "#",
+      "tags": ["spacing", "evaluation", "all"],
+      "text": "Controls must not be too close together. The prototype uses an explicit minimum straight-line spacing for each difficulty and records each check as pass or fail.",
+      "parameters": {"minimum_spacing_m": {"beginner": 35, "intermediate": 45, "advanced": 55}}
+    },
+    {
+      "id": "KB-08",
+      "title": "Unsafe feature exclusion",
+      "source": "O-Adapt responsible-use policy",
+      "url": "#",
+      "tags": ["safety", "control", "all"],
+      "text": "Construction, prohibited access, deep water, uncrossable obstacles and unconfirmed controls in children's activity areas must be excluded or trigger human review.",
+      "parameters": {"exclude_statuses": ["EXCLUDED"], "human_review_for_playground": true}
+    }
+  ]
+}

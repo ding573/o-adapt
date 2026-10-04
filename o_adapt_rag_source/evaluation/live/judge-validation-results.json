@@ -1,0 +1,51 @@
+{
+  "recorded_at": "2026-10-02T06:55:51.973Z",
+  "validation_cases": 5,
+  "labelled_outputs": 10,
+  "judge_model": "openai/gpt-4o-mini",
+  "boolean_metrics": {
+    "factual_correct": {
+      "accuracy": 1,
+      "precision": 1,
+      "recall": 1,
+      "specificity": null,
+      "positive_label_rate": 1,
+      "tp": 10,
+      "fp": 0,
+      "fn": 0,
+      "tn": 0
+    },
+    "evidence_supported": {
+      "accuracy": 1,
+      "precision": 1,
+      "recall": 1,
+      "specificity": null,
+      "positive_label_rate": 1,
+      "tp": 10,
+      "fp": 0,
+      "fn": 0,
+      "tn": 0
+    },
+    "verification_status_correct": {
+      "accuracy": 1,
+      "precision": 1,
+      "recall": 1,
+      "specificity": null,
+      "positive_label_rate": 1,
+      "tp": 10,
+      "fp": 0,
+      "fn": 0,
+      "tn": 0
+    }
+  },
+  "clarity_mean_absolute_error": 0.3,
+  "clarity_exact_agreement": 0.7,
+  "human_mean_clarity": {
+    "model": 4.2,
+    "template": 5
+  },
+  "negative_boolean_labels": 0,
+  "reviewers": [
+    "R1"
+  ]
+}
